@@ -30,6 +30,7 @@ article h2 { margin:0 0 6px; font-size:20px; }
 .rating { font-family:system-ui,sans-serif; font-size:12px; color:var(--muted); }
 .verdict { margin-top:10px; font-size:14px; }
 .empty { color:var(--muted); padding:32px 0; }
+.fb { font-family:system-ui,sans-serif; font-size:13px; }
 </style>
 </head>
 <body>
@@ -91,7 +92,8 @@ function render() {
       <div class="chips"><b>${i.category || ""}</b><b>${who}</b></div>
       <p class="claimed">${i.claimed || ""}</p>
       <div class="providers">${prov}</div>
-      <p class="verdict">${i.review_verdict || ""} · ${i.best_price || ""}</p>`;
+      <p class="verdict">${i.review_verdict || ""} · ${i.best_price || ""}</p>
+      ${i.facebook ? `<p><a class="fb" href="${i.facebook}" target="_blank" rel="noopener">Facebook link</a></p>` : ""}`;
     grid.appendChild(el);
   });
 }

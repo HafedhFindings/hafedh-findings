@@ -55,6 +55,7 @@
     border: 1px solid var(--line); color: var(--muted);
   }
   .where span.sub { color: var(--bg); background: var(--accent); border-color: var(--accent); }
+  .fb { font-family: system-ui, sans-serif; font-size: 13px; color: var(--accent); }
 </style>
 </head>
 <body>
@@ -111,6 +112,7 @@ function render() {
       <div class="meta">${i.genre || ""} · ${i.runtime || ""}${filler}</div>
       <div class="scores">${scores}</div>
       <div class="where">${platforms}</div>
+      ${i.facebook && (i.facebook.share || i.facebook.reel) ? `<a class="fb" href="${i.facebook.share || i.facebook.reel}" target="_blank" rel="noopener">Facebook link</a>` : ""}
     </div>`;
     grid.appendChild(el);
   });
