@@ -1,1 +1,1 @@
-{"LOAD_FROM":"/tmp/mcp_create_or_update_payload.json"}
+{"LOAD":"USE_FILE","path":"/tmp/mcp_args_for_call.json"}
