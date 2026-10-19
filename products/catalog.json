@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "dedicated_for": [
     "safa",
     "eya",
@@ -16,6 +16,120 @@
     "autre"
   ],
   "items": [
+    {
+      "id": "haynes-pro-online-autosoftsecu-2026-10-19",
+      "date": "2026-10-19",
+      "title": "Haynes Pro Online / base réparation garage (offre FB autosoftsecu)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Accès « Database Pro Online » / Haynes Pro 1 an (voitures & camions) via autosoftsecu.com — compte partagé / prix discount.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1697490155713489",
+      "review_verdict": "SCAM / piratage probable. HaynesPro (WorkshopData) est un produit B2B légitime Infopro Digital / distributors, mais l’offre FB (Autosoftsecuusa → autosoftsecu.com) revend très probablement un accès partagé / licence non autorisée. Scores de confiance bas (Scamdoc ~25 %). NE PAS acheter sur autosoftsecu.com. Pour un usage légitime en France : Logicat, CLAS, Booster Garage, etc.",
+      "best_price": "Légitime FR : dès ~49 €/mois (Logicat Tech) ; Complet ~89 €/mois ; CLAS Full Package 899 € HT/an ; Booster Garage Business 675 €/an ou 65 €/mois — PAS le prix FB pirate",
+      "notes": "Documenté pour le catalogue findings uniquement. Source FB : Autosoftsecuusa. Site autosoftsecu.com exclus (accès partagé / pirate). HaynesPro officiel : abonnement pro via distributeurs FR autorisés. Ne pas recommander d’achat via la pub FB.",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — non trouvé (offre B2B, pas de retail ASIN)",
+          "url": "",
+          "price": "non trouvé",
+          "rating": "",
+          "reviews": ""
+        },
+        {
+          "slot": "france",
+          "name": "Logicat (distributeur FR HaynesPro)",
+          "url": "https://logicat.eu/haynes/",
+          "price": "dès 49 €/mois (Tech) ; 89 € Complet",
+          "rating": "4,75/5 (site Logicat)",
+          "reviews": ""
+        },
+        {
+          "slot": "world",
+          "name": "CLAS — Haynes Pro Full Package 1 an",
+          "url": "https://www.clas.com/fr/abonnement-haynes-pro-1an-version-full-package-ad0000hayfull.html",
+          "price": "899 € HT / an",
+          "rating": "",
+          "reviews": ""
+        }
+      ]
+    },
+    {
+      "id": "olight-ostation-x-2026-10-19",
+      "date": "2026-10-19",
+      "title": "Olight Ostation X — chargeur / organisateur automatique piles AA NiMH (~32)",
+      "category": "électronique",
+      "dedicated_for": null,
+      "claimed": "Charge, teste et range jusqu’à ~32 piles AA NiMH ; drop-in sans polarité ; app ; rejet auto des piles défectueuses.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1664594278366921",
+      "review_verdict": "Produit Olight réel et légitime (CE/FCC/UL, boutique FR). Utile pour gros volume NiMH. MAIS : la démo FB (Gadget Badger) verse des Energizer MAX alcalines — NON rechargeables — dans le chargeur : démo trompeuse / scam-adjacent. Le produit refuse correctement les alcalines ; n’acheter que des NiMH. Notes clients mixtes (jamming, faux rejets, fiabilité). Pas de fiche Amazon.fr trouvée.",
+      "best_price": "128 € (Olight France, stock épuisé au moment de la recherche) ; ~84 USD pack chargeur+32 piles sur Amazon.com ; chargeur seul ~120 USD US",
+      "notes": "IMPORTANT démo FB : Energizer MAX = alcalines jetables, pas NiMH — trompeur. Acheter via Olight FR ou Olight Direct / Amazon.com. Compatible uniquement NiMH AA (variante AAA séparée jusqu’à 36). Pas Fnac/Darty/Boulanger trouvé.",
+      "providers": [
+        {
+          "slot": "france",
+          "name": "Olight France — Ostation X AA",
+          "url": "https://fr.olight.com/store/ostation-x",
+          "price": "128,00 € (stock épuisé au 2026-10-19)",
+          "rating": "",
+          "reviews": ""
+        },
+        {
+          "slot": "amazon",
+          "name": "Amazon.com — OLIGHT Ostation X + 32 AA NiMH (Olight Direct)",
+          "url": "https://www.amazon.com/Exclusively-Rechargeable-Batteries-Automatic-Detection/dp/B0DSL7VZBP",
+          "price": "83,99 USD",
+          "rating": "4,0/5",
+          "reviews": "196"
+        },
+        {
+          "slot": "world",
+          "name": "Olight.com — Ostation X (chargeur)",
+          "url": "https://www.olight.com/ostation-x-3-in-1-rechargeable-aa-aaa-battery-charger",
+          "price": "non trouvé (page specs ; prix FR via fr.olight.com)",
+          "rating": "",
+          "reviews": ""
+        }
+      ]
+    },
+    {
+      "id": "mojoco-portable-hanging-dryer-2026-10-19",
+      "date": "2026-10-19",
+      "title": "MOJOCO (MOJOOO) sèche-linge portable suspendu — voyage / camping-car / appartement",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Sèche les vêtements en ~50 min ; sac séchant suspendu avec minuterie et UV LED ; pliable, sans évacuation ; jusqu’à 9 pièces.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1827481768604478",
+      "review_verdict": "Produit réel (marque MOJOCO / mojocohome.com), bien noté sur Amazon.com (~4,3/5, 1380 avis modèle MJC-T03). Utile pour petits lots / voyage, mais le ~50 min est optimiste (souvent 1–4 h selon charge). Attention FR : le modèle standard est 110 V — incompatible 230 V sans convertisseur ; préférer le modèle travel MJC-T18 100–240 V. Pas de fiche Amazon.fr / Fnac / Darty trouvée.",
+      "best_price": "~49–59 USD (Amazon.com MJC-T03) ; site officiel 58,99 USD ; travel dual-voltage MJC-T18 ~59–78 USD — non trouvé en EUR sur Amazon.fr",
+      "notes": "FB via GrollinsFinds. Inscription « MOJOOO » sur l’unité = marque MOJOCO. Pas de clone dropship recommandé : acheter marque officielle ou Amazon US avec convertisseur, ou MJC-T18 pour la France. Pas de retailer FR légitime listé. Ubuy FR (~68 €) est un intermediaire import — pas retenu comme france slot.",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.com — MOJOCO Portable Clothes Dryer MJC-T03 (110V)",
+          "url": "https://www.amazon.com/Mojoco-Portable-Clothes-Dryer-Apartment/dp/B0C2GPVLHS",
+          "price": "~49,99–58,99 USD (variations / Resale observées)",
+          "rating": "4,3/5",
+          "reviews": "1380"
+        },
+        {
+          "slot": "world",
+          "name": "MOJOCO officiel (mojocohome.com)",
+          "url": "https://www.mojocohome.com/products/mojoco-portable-clothes-dryer",
+          "price": "58,99 USD",
+          "rating": "4,3/5 (revendiqué via Amazon)",
+          "reviews": "1700+"
+        },
+        {
+          "slot": "france",
+          "name": "Aucun revendeur FR légitime trouvé (Amazon.fr / Fnac / Darty / Boulanger)",
+          "url": "",
+          "price": "non trouvé",
+          "rating": "",
+          "reviews": ""
+        }
+      ]
+    },
     {
       "id": "hair-catcher-2026-08-29",
       "date": "2026-08-29",
