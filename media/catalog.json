@@ -17,7 +17,9 @@
       "filler_pct": null,
       "filler_note": "Currently airing Fall 2026 (ep ~4–5 as of mid-Oct 2026); no AnimeFillerList page yet. Early webtoon adaptation — treat aired episodes as canon until a filler guide exists.",
       "added": "2026-10-19",
-      "watchlist_added": [],
+      "watchlist_added": [
+        "crunchyroll"
+      ],
       "watch_fr": [
         {
           "id": "crunchyroll",
