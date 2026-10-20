@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "dedicated_for": [
     "safa",
     "eya",
@@ -16,6 +16,44 @@
     "autre"
   ],
   "items": [
+    {
+      "id": "artie-learn-piano-ai-2026-10-20",
+      "date": "2026-10-20",
+      "title": "Artie: Learn Piano with AI — appli iOS d’apprentissage du piano (ArtMaster)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Appli « professeur de piano IA » : notes qui tombent (style Piano Tiles) au-dessus du clavier, écoute via micro ou MIDI et corrige en temps réel ; boucle, tempo ralenti, main par main ; pas besoin de lire la partition.",
+      "facebook": "https://www.facebook.com/reel/1509743954362651/",
+      "review_verdict": "Appli réelle et légitime (Art Master Academy s.r.o., Tchéquie, commerçant UE vérifié sur l’App Store). Bien notée (4,5/5 FR sur 165 notes ; 4,7/5 US sur ~2 750). Points faibles signalés : détection des notes au micro parfois capricieuse (MIDI recommandé), catalogue limité, interface encore en anglais (français annoncé), iOS 18+ uniquement (pas d’Android). Prudence abonnement : essai gratuit qui bascule en annuel si non annulé, plaintes de refus de remboursement. La vidéo FB est un reel de créateur (« I could KISS the pianist that made this app ») au ton publicitaire — pas d’arnaque, mais pub.",
+      "best_price": "Gratuit (30+ morceaux, 3 imports MIDI) ; complet : bon 12 mois 89,99 USD sur artmaster.com (« best value ») vs 179,99 €/an ou 39,99 €/mois via l’App Store FR",
+      "notes": "Source FB : Dustin Keys. Pas de vente sur Amazon.fr (appli iOS, abonnement in-app) ; pas de version Google Play. Prix App Store FR (2026-10-20) : Pro Monthly 39,99 € ; Pro Quarterly + essai 99,99 € ; Pro Annual + essai 179,99 € ; Family Annual 249,99 €. Site officiel : 34,99 $/mois, 149,99 $/an (essai 7 j), bon 12 mois 89,99 $ (paiement depuis la France à vérifier au checkout). Alternatives connues : Simply Piano, Flowkey, Yousician. Si essai : annuler avant la fin dans Réglages > Abonnements.",
+      "providers": [
+        {
+          "slot": "france",
+          "name": "App Store FR — Artie: Learn Piano with AI",
+          "url": "https://apps.apple.com/fr/app/artie-learn-piano-with-ai/id6746756746",
+          "price": "Gratuit + achats intégrés : 39,99 €/mois ; 99,99 €/trimestre ; 179,99 €/an ; Famille 249,99 €/an",
+          "rating": "4,5/5",
+          "reviews": "165"
+        },
+        {
+          "slot": "world",
+          "name": "ArtMaster officiel — bon Artie 12 mois",
+          "url": "https://www.artmaster.com/artie",
+          "price": "89,99 USD / 12 mois (bon) ; 34,99 USD/mois ; 149,99 USD/an",
+          "rating": "4,7/5 (App Store US)",
+          "reviews": "2749"
+        },
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — aucune fiche (appli iOS, abonnement in-app uniquement)",
+          "url": "",
+          "price": "non trouvé",
+          "rating": "",
+          "reviews": ""
+        }
+      ]
+    },
     {
       "id": "haynes-pro-online-autosoftsecu-2026-10-19",
       "date": "2026-10-19",
