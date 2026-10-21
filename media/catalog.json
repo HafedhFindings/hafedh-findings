@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,46 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "silo",
+      "title": "Silo",
+      "category": "tv",
+      "year": 2023,
+      "genre": "Drama, Sci-Fi, Mystery & Thriller (dystopian)",
+      "runtime": "3 seasons · 30 eps · ~50 min (S4, final season, announced)",
+      "filler_pct": null,
+      "added": "2026-10-21",
+      "watchlist_added": [],
+      "imdb": {
+        "score": 8.1,
+        "url": "https://www.imdb.com/title/tt14688458/",
+        "note": "~250k votes"
+      },
+      "rt": {
+        "score": 96,
+        "url": "https://www.rottentomatoes.com/tv/silo",
+        "note": "Tomatometer S3 96% (S1 88%, S2 92%); audience S3 ~71%"
+      },
+      "watch_fr": [
+        {
+          "id": "apple-tv",
+          "name": "Apple TV+",
+          "url": "https://tv.apple.com/fr/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+        },
+        {
+          "id": "apple-tv-amazon-channel",
+          "name": "Apple TV Amazon Channel",
+          "url": "https://www.primevideo.com/region/eu/"
+        }
+      ],
+      "watch_fr_notes": "France (JustWatch FR, vérifié 20/10/2026) : Apple TV+ uniquement, ou chaîne Apple TV via Prime Video (abonnement add-on payant, non inclus dans Prime). Pas sur Netflix, ni Prime Video inclus, ni Crunchyroll — ni en France ni ailleurs (exclusivité Apple TV+). Non ajouté aux watchlists.",
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1074686315162714",
+        "page": "Nenous El"
+      },
+      "title_fr": "Silo",
+      "notes": "Adaptation de la trilogie Silo de Hugh Howey, avec Rebecca Ferguson. Reel FB « عظيييييييمه silo 🔥🔥🔥 » (Nenous El)."
+    },
     {
       "id": "overgeared",
       "title": "Overgeared",

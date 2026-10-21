@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "dedicated_for": [
     "safa",
     "eya",
@@ -17,6 +17,44 @@
   ],
   "items": [
     {
+      "id": "epoxy-sol-effet-pierre-yasen-2026-10-21",
+      "date": "2026-10-21",
+      "title": "Revêtement de sol époxy autolissant effet pierre / sable coloré (pub Yasen Self-Leveling Epoxy Flooring)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Rénover un vieux sol en coulant une résine époxy bi-composant autolissante : effet pierre « premium », finition ultra-brillante, solide et durable ; DIY.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=29121781757427873",
+      "review_verdict": "Produit réel (fabricant chinois Yasen Coating Technology : époxy « colored sand » / quartz), mais vente directe non recommandée : prix uniquement sur WhatsApp/WeChat (« DM for price »), plusieurs domaines (yasencoating.com, yasenpro.com, yasenlite.com), contacts Gmail, livraison annoncée 50–60 jours depuis la Chine, pas d’avis vérifiables. Le rendu vidéo est atteignable avec des produits européens. Résultat très dépendant de la préparation du support (ponçage, primaire, humidité) ; l’époxy jaunit aux UV → intérieur. Pose délicate en DIY.",
+      "best_price": "Effet pierre : kit moquette de pierre 4,5 m² 120–160 € TTC (moquette-de-pierre.fr, ~27–35 €/m²) ; époxy autolissant brillant uni : Arcane Industries Revepoxy 5 kg ~151,50–166,80 € sur Amazon.fr (★4,7)",
+      "notes": "Source FB : Yasen Self-Leveling Epoxy Flooring (WhatsApp +86…, WeChat). Vendeur direct exclu (prix non publics, délais 50–60 j, import hors UE). Le kit Amazon.fr à ~20–23 € « effet marbre » (ASIN B0FDR7CBTN) n’est qu’un pot de 500 ml sans avis — non retenu. Pour un vrai effet marbre/métallique en résine : base opaque + résine de sol + pigments nacrés (cf. guide Stardust Colors). Pour un sol intérieur pro : 65–180 €/m² posé.",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — ARCANE INDUSTRIES Revepoxy AL résine époxy autolissante sol, kit 5 kg (effet miroir, coloris RAL)",
+          "url": "https://www.amazon.fr/s?k=ARCANE+INDUSTRIES+r%C3%A9sine+epoxy+autolissante+5+kg",
+          "price": "151,50–166,80 € (5 kg ≈ 2,5–3 m²)",
+          "rating": "4,7/5",
+          "reviews": ""
+        },
+        {
+          "slot": "france",
+          "name": "Moquette-de-pierre.fr — kit complet 4,5 m² (granulats de marbre + primaire époxy + résine PU)",
+          "url": "https://www.moquette-de-pierre.fr/resine/packs-complets/",
+          "price": "120–160 € TTC / 4,5 m² ; 230–310 € / 9 m²",
+          "rating": "",
+          "reviews": ""
+        },
+        {
+          "slot": "world",
+          "name": "Yasen Coating (fabricant, Chine) — époxy sable coloré autolissant",
+          "url": "https://yasencoating.com/products/3",
+          "price": "sur demande (WhatsApp) — livraison 50–60 j, non recommandé",
+          "rating": "",
+          "reviews": ""
+        }
+      ]
+    },
+    {
       "id": "artie-learn-piano-ai-2026-10-20",
       "date": "2026-10-20",
       "title": "Artie: Learn Piano with AI — appli iOS d’apprentissage du piano (ArtMaster)",
@@ -26,7 +64,7 @@
       "facebook": "https://www.facebook.com/reel/1509743954362651/",
       "review_verdict": "Appli réelle et légitime (Art Master Academy s.r.o., Tchéquie, commerçant UE vérifié sur l’App Store). Bien notée (4,5/5 FR sur 165 notes ; 4,7/5 US sur ~2 750). Points faibles signalés : détection des notes au micro parfois capricieuse (MIDI recommandé), catalogue limité, interface encore en anglais (français annoncé), iOS 18+ uniquement (pas d’Android). Prudence abonnement : essai gratuit qui bascule en annuel si non annulé, plaintes de refus de remboursement. La vidéo FB est un reel de créateur (« I could KISS the pianist that made this app ») au ton publicitaire — pas d’arnaque, mais pub.",
       "best_price": "Gratuit (30+ morceaux, 3 imports MIDI) ; complet : bon 12 mois 89,99 USD sur artmaster.com (« best value ») vs 179,99 €/an ou 39,99 €/mois via l’App Store FR",
-      "notes": "Source FB : Dustin Keys. Pas de vente sur Amazon.fr (appli iOS, abonnement in-app) ; pas de version Google Play. Prix App Store FR (2026-10-20) : Pro Monthly 39,99 € ; Pro Quarterly + essai 99,99 € ; Pro Annual + essai 179,99 € ; Family Annual 249,99 €. Site officiel : 34,99 $/mois, 149,99 $/an (essai 7 j), bon 12 mois 89,99 $ (paiement depuis la France à vérifier au checkout). Alternatives connues : Simply Piano, Flowkey, Yousician. Si essai : annuler avant la fin dans Réglages > Abonnements.",
+      "notes": "Source FB : Dustin Keys. Pas de vente sur Amazon.fr (appli iOS, abonnement in-app) ; pas de version Google Play. Prix App Store FR (2026-10-20) : Pro Monthly 39,99 € ; Pro Quarterly + essai 99,99 € ; Pro Annual + essai 179,99 € ; Family Annual 249,99 €. Site officiel : 34,99 $/mois, 149,99 $/an (essai 7 j), bon 12 mois 89,99 $ (paiement depuis la France à vérifier au checkout). Alternatives connues : Simply Piano, Flowkey, Yousician. Si essai : annuler avant la fin dans Réglages > Abonnements. Re-sauvegardé le 2026-10-21 (reel Learnpanowithartie, v=1622793442822706) — doublon, même produit.",
       "providers": [
         {
           "slot": "france",
@@ -52,6 +90,9 @@
           "rating": "",
           "reviews": ""
         }
+      ],
+      "facebook_extra": [
+        "https://www.facebook.com/watch/?ref=saved&v=1622793442822706"
       ]
     },
     {
