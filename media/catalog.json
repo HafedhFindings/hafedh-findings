@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-23",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,101 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "solo-leveling",
+      "title": "Solo Leveling",
+      "category": "anime",
+      "year": 2024,
+      "genre": "Action, Adventure, Fantasy, Urban Fantasy",
+      "runtime": "2 seasons · 25 eps · ~23–24 min (S1 12 eps 2024; S2 « Arise from the Shadow » 13 eps 2025)",
+      "filler_pct": 0,
+      "filler_note": "0 % filler : les 25 épisodes sont canon ; seul l'épisode 7.5 « How to Get Stronger » est un récap (sautable).",
+      "added": "2026-10-23",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/fr/series/GDKHZEJ0K/solo-leveling"
+        },
+        {
+          "id": "prime",
+          "name": "Crunchyroll Amazon Channel",
+          "url": "https://www.primevideo.com/region/eu/"
+        }
+      ],
+      "watch_fr_notes": "France (JustWatch FR, vérifié 22/10/2026) : Crunchyroll (S1 + S2, VF et VOSTFR), Crunchyroll Amazon Channel (add-on Prime), Molotov TV, SFR Play. Pas sur Netflix (aucun pays). Disponible avec l'abonnement Crunchyroll.",
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1095618630109781",
+        "page": "Manga Mind"
+      },
+      "poster": "https://cdn.myanimelist.net/images/anime/1801/142390.jpg",
+      "title_jp": "俺だけレベルアップな件",
+      "title_romaji": "Ore dake Level Up na Ken",
+      "title_kr": "나 혼자만 레벨업",
+      "imdb": {
+        "score": 8.5,
+        "url": "https://www.imdb.com/title/tt21209876/",
+        "note": "~123k votes"
+      },
+      "rt": {
+        "score": 100,
+        "url": "https://www.rottentomatoes.com/tv/solo_leveling",
+        "note": "Tomatometer S1 100%, S2 100% (14 critiques) ; Popcornmeter ~79%"
+      },
+      "mal": {
+        "score": 8.12,
+        "url": "https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken",
+        "note": "S1 8.12 ; S2 Arise from the Shadow 8.49 (https://myanimelist.net/anime/58567)"
+      },
+      "notes": "Adaptation du manhwa coréen (Chugong / DUBU). Reel FB de Manga Mind (réaction FR, scènes de la saison 2 : Go Gun-hee, président de l'Association des chasseurs).",
+      "studio": "A-1 Pictures"
+    },
+    {
+      "id": "blades-of-the-guardians",
+      "title": "Blades of the Guardians",
+      "category": "anime",
+      "year": 2023,
+      "genre": "Action, Historical, Wuxia, Drama (Chinese donghua)",
+      "runtime": "2 seasons · 23 eps (S1 15 × ~20–25 min, 2023; S2 8 × ~27 min, Jun–Jul 2026)",
+      "filler_pct": 0,
+      "filler_note": "No AnimeFillerList page; manhua adaptation (Biao Ren by Xu Xianzhe), all episodes treated as canon.",
+      "added": "2026-10-23",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "adn",
+          "name": "ADN (Animation Digital Network)",
+          "url": "https://animationdigitalnetwork.com/video/1362-blades-of-the-guardians"
+        },
+        {
+          "id": "adn-amazon-channel",
+          "name": "ADN Amazon Channel",
+          "url": "https://www.primevideo.com/-/fr/detail/0NUCH76D27RWEA04BG7GA4YZHQ"
+        }
+      ],
+      "watch_fr_notes": "France (JustWatch FR, vérifié 22/10/2026) : ADN uniquement (S1 + S2 en VOSTFR, simulcast S2 depuis le 11/06/2026 ; certains épisodes gratuits avec pub), et chaîne ADN via Prime Video (add-on payant, non inclus dans Prime). Pas sur Netflix, ni Prime Video inclus, ni Crunchyroll en France. Ailleurs : WeTV / Tencent Video (international, sous-titres EN), ADN Allemagne. Non ajouté aux watchlists.",
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=28446853511652460",
+        "page": "Shonen Anime"
+      },
+      "poster": "https://media.animationdigitalnetwork.com/images/show/f613e373-c42e-4ecb-bff3-fd92c577461c/landscape-with-logo.fr.width=1200,height=630,quality=70,fit=cover",
+      "title_native": "镖人",
+      "title_romaji": "Biao Ren",
+      "title_cn": "镖人",
+      "imdb": {
+        "score": 7.7,
+        "url": "https://www.imdb.com/title/tt28259824/",
+        "note": "~955 votes"
+      },
+      "mal": {
+        "score": 7.57,
+        "url": "https://myanimelist.net/anime/44388/Biao_Ren",
+        "note": "S1 (~6k votes); S2 « Biao Ren Er » : https://myanimelist.net/anime/62241/Biao_Ren_Er"
+      },
+      "notes": "AKA Biao Ren / Blade of the Guardian. Dao Ma, mercenaire, escorte Zhi Shilang vers Chang'an (dynastie Sui). Studio Colored-Pencil Animation (Tencent Penguin Pictures). Pas de score Rotten Tomatoes. Reel FB « The animators went all out and apparently forgot budgets exist » (Shonen Anime). Ne pas confondre avec le film live-action homonyme de 2026.",
+      "studio": "Colored-Pencil Animation Design"
+    },
     {
       "id": "silo",
       "title": "Silo",
