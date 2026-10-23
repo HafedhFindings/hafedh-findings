@@ -3,121 +3,72 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Facebook media</title>
+<title>Médias · Hafedh findings</title>
+<script>document.documentElement.dataset.theme=localStorage.getItem("hf-theme")||"light";</script>
 <style>
-  :root {
-    --bg: #0b0b0f;
-    --card: #14141c;
-    --muted: #9aa0b4;
-    --text: #f4f4f8;
-    --line: #252532;
-    --accent: #e8c07a;
-    --netflix: #e50914;
-    --prime: #00a8e1;
-    --crunchy: #f47521;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--bg); color: var(--text);
-    font: 16px/1.45 "Iowan Old Style", Palatino, Georgia, serif;
-  }
-  header {
-    padding: 48px 24px 16px; max-width: 1100px; margin: 0 auto;
-  }
-  header h1 { font-weight: 600; letter-spacing: -0.03em; margin: 0 0 8px; }
-  header p { color: var(--muted); margin: 0; font-family: system-ui, sans-serif; font-size: 14px; }
-  nav {
-    display: flex; gap: 8px; flex-wrap: wrap;
-    max-width: 1100px; margin: 0 auto; padding: 16px 24px 8px;
-    font-family: system-ui, sans-serif;
-  }
-  nav button {
-    background: transparent; color: var(--muted); border: 1px solid var(--line);
-    border-radius: 999px; padding: 6px 14px; cursor: pointer;
-  }
-  nav button[aria-pressed="true"] { color: var(--bg); background: var(--accent); border-color: var(--accent); }
-  main { max-width: 1100px; margin: 0 auto; padding: 16px 24px 80px;
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
-  .empty { grid-column: 1 / -1; color: var(--muted); padding: 48px 0; font-family: system-ui, sans-serif; }
-  article {
-    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
-    overflow: hidden; display: flex; flex-direction: column;
-  }
-  article img { width: 100%; aspect-ratio: 2/3; object-fit: cover; background: #1c1c28; }
-  article .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 8px; }
-  article h2 { font-size: 18px; margin: 0; }
-  .meta { font-family: system-ui, sans-serif; font-size: 12px; color: var(--muted); }
-  .scores { display: flex; gap: 10px; font-family: system-ui, sans-serif; font-size: 13px; }
-  .scores a { color: var(--accent); text-decoration: none; }
-  .where { display: flex; flex-wrap: wrap; gap: 6px; }
-  .where span {
-    font-family: system-ui, sans-serif; font-size: 11px; padding: 3px 8px; border-radius: 999px;
-    border: 1px solid var(--line); color: var(--muted);
-  }
-  .where span.sub { color: var(--bg); background: var(--accent); border-color: var(--accent); }
-  .fb { font-family: system-ui, sans-serif; font-size: 13px; color: var(--accent); }
+:root{--bg:#f7f6f2;--card:#fff;--text:#1d1c1a;--muted:#6b6860;--line:#e3e0d8;--accent:#9a5b13;--chip:#f0ece3}
+[data-theme=dark]{--bg:#0b0b0f;--card:#15151d;--text:#f2f2f6;--muted:#9aa0b4;--line:#2a2a36;--accent:#e8c07a;--chip:#20202a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,sans-serif}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{max-width:1200px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.brand{font:600 18px Georgia,serif;margin-right:8px}
+.tabs{display:flex;gap:4px;flex-wrap:wrap}.tabs a{padding:7px 14px;border-radius:999px;color:var(--muted);text-decoration:none;border:1px solid transparent}
+.tabs a.on{color:var(--text);border-color:var(--line);background:var(--card);font-weight:600}
+.sub a{font-size:13px;padding:5px 12px}
+#theme{margin-left:auto;background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer}
+.tools{max-width:1200px;margin:0 auto;padding:12px 20px 0;display:flex;flex-direction:column;gap:10px}
+#q{width:100%;max-width:420px;padding:9px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);font-size:15px}
+.tagbar{display:flex;flex-wrap:wrap;gap:6px}.tag{font-size:12px;padding:3px 9px;border-radius:999px;background:var(--chip);color:var(--muted);border:1px solid var(--line);cursor:pointer}
+.tag.on{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.count{color:var(--muted);font-size:13px}
+main{max-width:1200px;margin:0 auto;padding:16px 20px 48px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+article{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+article img{width:100%;aspect-ratio:2/3;object-fit:cover;background:var(--chip)}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px}
+h2{font:600 17px Georgia,serif;margin:0}.meta{font-size:12px;color:var(--muted)}
+a{color:var(--accent)}.links{display:flex;flex-wrap:wrap;gap:6px;font-size:13px}
+.empty{grid-column:1/-1;color:var(--muted);padding:40px 0}
+.providers a{display:block;font-size:13px;margin:2px 0}
 </style>
 </head>
 <body>
-<header>
-  <h1>Facebook media</h1>
-  <p>Clips partagés · dispo France (Prime, Netflix, Crunchyroll en priorité)</p>
-</header>
-<nav id="filters"></nav>
+<div class="top"><div class="bar"><span class="brand">Hafedh findings</span>
+<nav class="tabs"><a href="/media/" class="on">Médias</a><a href="/products/" class="">Produits</a></nav>
+<button id="theme" type="button">☾ Sombre</button></div>
+<div class="bar" style="padding-top:0"><nav class="tabs sub" id="subtabs"></nav></div></div>
+<div class="tools"><input id="q" type="search" placeholder="Rechercher…"><div class="tagbar" id="tags"></div><div class="count" id="count"></div></div>
 <main id="grid"></main>
 <script>
-const CATS = [["all","Tout"],["tv","Séries"],["movie","Films"],["anime","Anime"],["comedian","Humoristes"]];
-let data = { items: [] };
-let cat = "all";
-async function load() {
-  const res = await fetch("catalog.json");
-  data = await res.json();
-  renderNav();
-  render();
+const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function setTheme(t){document.documentElement.dataset.theme=t;localStorage.setItem("hf-theme",t);$("#theme").textContent=t==="dark"?"☀ Clair":"☾ Sombre"}
+$("#theme").onclick=()=>setTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");setTheme(document.documentElement.dataset.theme);
+let data={items:[]},sel=new Set();
+function tab(){return decodeURIComponent(location.hash.slice(1))||"all"}
+function boot(TABS,tabOf,card){
+ fetch("catalog.json").then(r=>r.json()).then(d=>{data=d;draw()});
+ window.onhashchange=()=>{sel.clear();draw()};$("#q").oninput=draw;
+ function draw(){const t=tab();
+  $("#subtabs").innerHTML=TABS.map(([id,l])=>{const n=id==="all"?data.items.length:data.items.filter(i=>tabOf(i)===id).length;return `<a href="#${id}" class="${id===t?"on":""}">${l} (${n})</a>`}).join("");
+  const inTab=data.items.filter(i=>t==="all"||tabOf(i)===t);
+  const freq={};inTab.forEach(i=>(i.tags||[]).forEach(g=>freq[g]=(freq[g]||0)+1));
+  const tags=Object.keys(freq).sort((a,b)=>freq[b]-freq[a]||a.localeCompare(b)).slice(0,60);
+  $("#tags").innerHTML=tags.map(g=>`<span class="tag ${sel.has(g)?"on":""}" data-t="${esc(g)}">${esc(g)} ${freq[g]}</span>`).join("");
+  $("#tags").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{const g=e.dataset.t;sel.has(g)?sel.delete(g):sel.add(g);draw()});
+  const q=$("#q").value.toLowerCase().trim();
+  const items=inTab.filter(i=>[...sel].every(g=>(i.tags||[]).includes(g))&&(!q||JSON.stringify(i).toLowerCase().includes(q)));
+  $("#count").textContent=items.length+" élément(s)";
+  $("#grid").innerHTML=items.length?items.map(card).join(""):'<p class="empty">Aucun élément pour ce filtre.</p>';
+  $("#grid").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{sel.add(e.dataset.t);draw()});
+ }
 }
-function renderNav() {
-  const nav = document.getElementById("filters");
-  nav.innerHTML = "";
-  CATS.forEach(([id, label]) => {
-    const b = document.createElement("button");
-    b.textContent = label;
-    b.setAttribute("aria-pressed", id === cat ? "true" : "false");
-    b.onclick = () => { cat = id; renderNav(); render(); };
-    nav.appendChild(b);
-  });
-}
-function render() {
-  const grid = document.getElementById("grid");
-  const items = (data.items || []).filter(i => cat === "all" || i.category === cat);
-  if (!items.length) {
-    grid.innerHTML = '<p class="empty">Rien pour l’instant. Envoie un clip dans le groupe WhatsApp Facebook Media.</p>';
-    return;
-  }
-  grid.innerHTML = "";
-  items.forEach(i => {
-    const el = document.createElement("article");
-    const img = i.poster ? `<img src="${i.poster}" alt="">` : "";
-    const scores = [
-      i.imdb && i.imdb.score != null ? `<a href="${i.imdb.url || '#'}">IMDb ${i.imdb.score}</a>` : "",
-      i.rt && i.rt.score != null ? `<a href="${i.rt.url || '#'}">RT ${i.rt.score}%</a>` : "",
-      i.mal && i.mal.score != null ? `<a href="${i.mal.url || '#'}">MAL ${i.mal.score}</a>` : ""
-    ].filter(Boolean).join("");
-    const platforms = (i.watch_fr || []).map(p => {
-      const sub = (data.subscribed || []).includes(p.id);
-      return `<span class="${sub ? "sub" : ""}">${p.name}</span>`;
-    }).join("");
-    const filler = i.category === "anime" && i.filler_pct != null ? ` · filler ${i.filler_pct}%` : "";
-    el.innerHTML = `${img}<div class="body">
-      <h2>${i.title}</h2>
-      <div class="meta">${i.genre || ""} · ${i.runtime || ""}${filler}</div>
-      <div class="scores">${scores}</div>
-      <div class="where">${platforms}</div>
-      ${i.facebook && (i.facebook.share || i.facebook.reel) ? `<a class="fb" href="${i.facebook.share || i.facebook.reel}" target="_blank" rel="noopener">Facebook link</a>` : ""}
-    </div>`;
-    grid.appendChild(el);
-  });
-}
-load();
-</script>
-</body>
-</html>
+const TABS=[["all","Tout"],["anime","Animes"],["movie","Films"],["tv","Séries"],["comedian","Humour/Comédiens"],["other","Vidéos/Autres"]];
+const tabOf=i=>({anime:"anime",donghua:"anime",movie:"movie",film:"movie",tv:"tv",series:"tv",comedian:"comedian",comedy:"comedian"}[i.category]||"other");
+boot(TABS,tabOf,i=>{
+ const sc=[i.imdb&&i.imdb.score!=null?`<a href="${esc(i.imdb.url)}" target="_blank">IMDb ${i.imdb.score}</a>`:"",i.rt&&i.rt.score!=null?`<a href="${esc(i.rt.url)}" target="_blank">RT ${i.rt.score}%</a>`:"",i.mal&&i.mal.score!=null?`<a href="${esc(i.mal.url)}" target="_blank">MAL ${i.mal.score}</a>`:""].join(" ");
+ const w=(i.watch_fr||[]).concat(i.full_links||[]).map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener">▶ ${esc(p.name)}</a>`).join("");
+ const fb=i.facebook&&(i.facebook.share||i.facebook.reel||i.facebook.url||(typeof i.facebook==="string"?i.facebook:""));
+ return `<article>${i.poster?`<img loading="lazy" src="${esc(i.poster)}" alt="">`:""}<div class="body"><h2>${esc(i.title)}</h2>
+ <div class="meta">${esc(i.year||"")} · ${esc(i.runtime||"")}</div><div class="links">${sc}</div><div class="links">${w}</div>
+ <div class="tagbar">${(i.tags||[]).map(g=>`<span class="tag" data-t="${esc(g)}">${esc(g)}</span>`).join("")}</div>
+ ${fb?`<a class="meta" href="${esc(fb)}" target="_blank" rel="noopener">Clip Facebook</a>`:""}</div></article>`});
+</script></body></html>

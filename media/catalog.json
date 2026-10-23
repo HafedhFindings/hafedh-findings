@@ -35,7 +35,7 @@
         "share": "https://www.facebook.com/watch/?ref=saved&v=1095618630109781",
         "page": "Manga Mind"
       },
-      "poster": "https://cdn.myanimelist.net/images/anime/1801/142390.jpg",
+      "poster": "/media/posters/solo-leveling.jpg",
       "title_jp": "俺だけレベルアップな件",
       "title_romaji": "Ore dake Level Up na Ken",
       "title_kr": "나 혼자만 레벨업",
@@ -55,7 +55,18 @@
         "note": "S1 8.12 ; S2 Arise from the Shadow 8.49 (https://myanimelist.net/anime/58567)"
       },
       "notes": "Adaptation du manhwa coréen (Chugong / DUBU). Reel FB de Manga Mind (réaction FR, scènes de la saison 2 : Go Gun-hee, président de l'Association des chasseurs).",
-      "studio": "A-1 Pictures"
+      "studio": "A-1 Pictures",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
+      "tags": [
+        "2024",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "coréen",
+        "fantasy",
+        "japonais",
+        "urban fantasy"
+      ]
     },
     {
       "id": "blades-of-the-guardians",
@@ -85,7 +96,7 @@
         "share": "https://www.facebook.com/watch/?ref=saved&v=28446853511652460",
         "page": "Shonen Anime"
       },
-      "poster": "https://media.animationdigitalnetwork.com/images/show/f613e373-c42e-4ecb-bff3-fd92c577461c/landscape-with-logo.fr.width=1200,height=630,quality=70,fit=cover",
+      "poster": "/media/posters/blades-of-the-guardians.jpg",
       "title_native": "镖人",
       "title_romaji": "Biao Ren",
       "title_cn": "镖人",
@@ -100,7 +111,17 @@
         "note": "S1 (~6k votes); S2 « Biao Ren Er » : https://myanimelist.net/anime/62241/Biao_Ren_Er"
       },
       "notes": "AKA Biao Ren / Blade of the Guardian. Dao Ma, mercenaire, escorte Zhi Shilang vers Chang'an (dynastie Sui). Studio Colored-Pencil Animation (Tencent Penguin Pictures). Pas de score Rotten Tomatoes. Reel FB « The animators went all out and apparently forgot budgets exist » (Shonen Anime). Ne pas confondre avec le film live-action homonyme de 2026.",
-      "studio": "Colored-Pencil Animation Design"
+      "studio": "Colored-Pencil Animation Design",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122508-abXsQzAGwPzN.jpg",
+      "tags": [
+        "2023",
+        "ADN",
+        "action",
+        "chinois",
+        "drama",
+        "historical",
+        "wuxia"
+      ]
     },
     {
       "id": "silo",
@@ -140,7 +161,15 @@
         "page": "Nenous El"
       },
       "title_fr": "Silo",
-      "notes": "Adaptation de la trilogie Silo de Hugh Howey, avec Rebecca Ferguson. Reel FB « عظيييييييمه silo 🔥🔥🔥 » (Nenous El)."
+      "notes": "Adaptation de la trilogie Silo de Hugh Howey, avec Rebecca Ferguson. Reel FB « عظيييييييمه silo 🔥🔥🔥 » (Nenous El).",
+      "poster": "/media/posters/silo.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/631/1577677.jpg",
+      "tags": [
+        "2023",
+        "drama",
+        "mystery & thriller",
+        "sci-fi"
+      ]
     },
     {
       "id": "overgeared",
@@ -175,7 +204,7 @@
           "https://www.facebook.com/watch/?ref=saved&v=1632012645306013"
         ]
       },
-      "poster": "https://cdn.myanimelist.net/images/anime/1386/160022.jpg",
+      "poster": "/media/posters/overgeared.jpg",
       "title_jp": "テムパル ～アイテムの力～",
       "title_native": "템빨",
       "title_romaji": "Tempal: Item no Chikara",
@@ -198,7 +227,20 @@
         "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=39790"
       },
       "notes": "Adaptation of Korean webtoon; Japanese title Tempal: Item no Chikara. One catalog entry for both FB clips.",
-      "studio": "J.C.Staff"
+      "studio": "J.C.Staff",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+      "tags": [
+        "2026",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "comedy",
+        "coréen",
+        "en cours",
+        "fantasy",
+        "japonais",
+        "video game"
+      ]
     },
     {
       "id": "hero-return",
@@ -217,7 +259,7 @@
         "share": "https://www.facebook.com/watch/?ref=saved&v=2185656379036067",
         "page": null
       },
-      "poster": "https://cdn.myanimelist.net/images/anime/1494/109747.jpg",
+      "poster": "/media/posters/hero-return.jpg",
       "title_native": "英雄再临",
       "title_romaji": "Yingxiong Zai Lin",
       "title_cn": "英雄再临",
@@ -235,7 +277,17 @@
         "note": "Average/mean 67%"
       },
       "notes": "AKA The Hero's Return / Yingxiong? Wo Zao Jiu Bu Dang Le. Finished ONA Oct 18–Dec 27 2020.",
-      "studio": "Big Firebird Culture"
+      "studio": "Big Firebird Culture",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120193-KAMiBZ4Nw3xA.png",
+      "tags": [
+        "2020",
+        "action",
+        "chinois",
+        "fantasy",
+        "hors plateformes",
+        "sci-fi",
+        "super power"
+      ]
     },
     {
       "id": "frontier-lord-begins-with-zero-subjects",
@@ -270,7 +322,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1BkWkz6XEC/",
         "page": "Anime SPM"
-      }
+      },
+      "poster": "/media/posters/frontier-lord-begins-with-zero-subjects.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+      "tags": [
+        "2026",
+        "Crunchyroll",
+        "action",
+        "comedy",
+        "fantasy",
+        "japonais",
+        "romance",
+        "slice of life"
+      ]
     },
     {
       "id": "sparks-of-tomorrow",
@@ -296,7 +360,16 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1HawsKpKNC/",
         "page": "Hantz Clips"
-      }
+      },
+      "poster": "/media/posters/sparks-of-tomorrow.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+      "tags": [
+        "2026",
+        "Netflix",
+        "drama",
+        "historical",
+        "japonais"
+      ]
     },
     {
       "id": "uq-holder",
@@ -325,7 +398,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1DfdDrcLve/",
         "page": "Hantz Clips"
-      }
+      },
+      "poster": "/media/posters/uq-holder.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21855-4Dpxr8GQ4BKy.jpg",
+      "tags": [
+        "2017",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "japonais"
+      ]
     },
     {
       "id": "my-daughter-is-a-zombie",
@@ -344,7 +428,17 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1R4Gy9irs3/",
         "page": "Rasvi Movies"
-      }
+      },
+      "poster": "/media/posters/my-daughter-is-a-zombie.jpg",
+      "poster_source": "https://m.media-amazon.com/images/M/MV5BYTk2YjMxNjQtY2ZlOC00Nzg5LWI5YjUtMWVhMzY4YWZmNmE1XkEyXkFqcGc@._V1_SX600.jpg",
+      "tags": [
+        "2025",
+        "comedy",
+        "coréen",
+        "drama",
+        "horror",
+        "hors plateformes"
+      ]
     },
     {
       "id": "the-killing-of-a-sacred-deer",
@@ -365,7 +459,16 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1BWC9QFtes/",
         "page": "Osama Qaq"
-      }
+      },
+      "poster": "/media/posters/the-killing-of-a-sacred-deer.jpg",
+      "poster_source": "https://m.media-amazon.com/images/M/MV5BMjU4NDcwOTA2NF5BMl5BanBnXkFtZTgwMjE2OTg4MzI@._V1_SX600.jpg",
+      "tags": [
+        "2017",
+        "drama",
+        "hors plateformes",
+        "mystery",
+        "thriller"
+      ]
     },
     {
       "id": "the-shadows-edge",
@@ -386,7 +489,15 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1DyUyB87eP/",
         "page": "8Kdrama"
-      }
+      },
+      "poster": "/media/posters/the-shadows-edge.jpg",
+      "poster_source": "https://m.media-amazon.com/images/M/MV5BN2ZhMGU1MTItMzBkMi00MjZmLWI2MDQtMWE1ODNjMWFhZjY4XkEyXkFqcGc@._V1_SX600.jpg",
+      "tags": [
+        "2025",
+        "action",
+        "hors plateformes",
+        "thriller"
+      ]
     },
     {
       "id": "big-mouth-2022",
@@ -406,7 +517,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1at9mvioYG/",
         "page": "Ghaith"
-      }
+      },
+      "poster": "/media/posters/big-mouth-2022.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/560/1401497.jpg",
+      "tags": [
+        "2022",
+        "action",
+        "coréen",
+        "crime",
+        "drama",
+        "hors plateformes",
+        "mystery",
+        "thriller"
+      ]
     },
     {
       "id": "quality-assurance-in-another-world",
@@ -444,7 +567,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1EBNYUcRZR/",
         "page": "Univers Mangas"
-      }
+      },
+      "poster": "/media/posters/quality-assurance-in-another-world.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg",
+      "tags": [
+        "2024",
+        "Crunchyroll",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "japonais",
+        "science fiction"
+      ]
     },
     {
       "id": "blood-blockade-battlefront-beyond",
@@ -471,7 +605,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/186BuHeLWx/",
         "page": "Ghaith"
-      }
+      },
+      "poster": "/media/posters/blood-blockade-battlefront-beyond.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97886-iArtYIxZzGcR.jpg",
+      "tags": [
+        "2017",
+        "action",
+        "comedy",
+        "fantasy",
+        "hors plateformes",
+        "japonais",
+        "urban fantasy"
+      ]
     },
     {
       "id": "the-eminence-in-shadow",
@@ -504,7 +649,20 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1Ew7phU6mA/",
         "page": "Anim Ebdou"
-      }
+      },
+      "poster": "/media/posters/the-eminence-in-shadow.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+      "tags": [
+        "2022",
+        "ADN",
+        "Prime Video",
+        "action",
+        "comedy",
+        "fantasy",
+        "isekai",
+        "japonais",
+        "reincarnation"
+      ]
     },
     {
       "id": "berserk-1997",
@@ -540,7 +698,24 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/14qUgcSVLiN/",
         "page": "ANIME X"
-      }
+      },
+      "poster": "/media/posters/berserk-1997.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+      "tags": [
+        "1997",
+        "ADN",
+        "Prime Video",
+        "action",
+        "adventure",
+        "drama",
+        "fantasy",
+        "gore",
+        "horror",
+        "japonais",
+        "military",
+        "psychological",
+        "seinen"
+      ]
     },
     {
       "id": "ranking-of-kings",
@@ -578,7 +753,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/19XxHy5tXk/",
         "page": "Moroccan Anime"
-      }
+      },
+      "poster": "/media/posters/ranking-of-kings.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-9sNnN8WRgK15.jpg",
+      "tags": [
+        "2021",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "japonais"
+      ]
     },
     {
       "id": "link-click-bridon-arc",
@@ -620,7 +806,21 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1HZRpwr2Gh/",
         "page": "Otakuweek"
-      }
+      },
+      "poster": "/media/posters/link-click-bridon-arc.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
+      "tags": [
+        "2024",
+        "Crunchyroll",
+        "action",
+        "chinois",
+        "drama",
+        "japonais",
+        "mystery",
+        "supernatural",
+        "thriller",
+        "time travel"
+      ]
     },
     {
       "id": "sakamoto-days",
@@ -654,7 +854,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1ayHwZeaXb/",
         "page": "Daily Wish"
-      }
+      },
+      "poster": "/media/posters/sakamoto-days.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
+      "tags": [
+        "2025",
+        "Netflix",
+        "action",
+        "adult cast",
+        "comedy",
+        "japonais",
+        "organized crime"
+      ]
     },
     {
       "id": "i-parry-everything",
@@ -683,7 +894,17 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1CQvBPh8vG/",
         "page": "LP Studio"
-      }
+      },
+      "poster": "/media/posters/i-parry-everything.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg",
+      "tags": [
+        "2024",
+        "ADN",
+        "action",
+        "adventure",
+        "fantasy",
+        "japonais"
+      ]
     },
     {
       "id": "berserk-of-gluttony",
@@ -718,7 +939,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1BxWfEigWN/",
         "page": "Anime SPM"
-      }
+      },
+      "poster": "/media/posters/berserk-of-gluttony.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-JnepQcVxXLLW.jpg",
+      "tags": [
+        "2023",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "drama",
+        "fantasy",
+        "japonais"
+      ]
     },
     {
       "id": "banished-from-the-heros-party",
@@ -753,7 +985,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1CAbsUdAKs/",
         "page": "Tiano Tiano"
-      }
+      },
+      "poster": "/media/posters/banished-from-the-heros-party.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126213-cXF3hsCcOipI.jpg",
+      "tags": [
+        "2021",
+        "Crunchyroll",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "japonais",
+        "romance",
+        "slice of life"
+      ]
     },
     {
       "id": "brilliant-healers-new-life-in-the-shadows",
@@ -784,7 +1028,17 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1QayzdRJxi/",
         "page": "Anime SPM"
-      }
+      },
+      "poster": "/media/posters/brilliant-healers-new-life-in-the-shadows.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
+      "tags": [
+        "2025",
+        "Crunchyroll",
+        "adventure",
+        "fantasy",
+        "japonais",
+        "medical"
+      ]
     },
     {
       "id": "lord-of-mysteries",
@@ -822,7 +1076,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1PZZXr2QFY/",
         "page": "aramaki75"
-      }
+      },
+      "poster": "/media/posters/lord-of-mysteries.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
+      "tags": [
+        "2025",
+        "Crunchyroll",
+        "action",
+        "fantasy",
+        "japonais",
+        "mystery",
+        "suspense"
+      ]
     },
     {
       "id": "the-scarecrow-2026",
@@ -849,7 +1114,16 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1BM26YgWaS/",
         "page": "K-DRAMA MAGHRIBIX"
-      }
+      },
+      "poster": "/media/posters/the-scarecrow-2026.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/620/1551485.jpg",
+      "tags": [
+        "2026",
+        "coréen",
+        "crime",
+        "mystery",
+        "thriller"
+      ]
     },
     {
       "id": "seraph-of-the-end",
@@ -872,7 +1146,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1FagSPYqF1/",
         "page": "Luffy Bla Ck"
-      }
+      },
+      "poster": "/media/posters/seraph-of-the-end.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21483-yJfFGWvTGzy1.jpg",
+      "tags": [
+        "2015",
+        "ADN",
+        "action",
+        "drama",
+        "fantasy",
+        "japonais",
+        "military",
+        "vampire"
+      ]
     },
     {
       "id": "orient",
@@ -914,7 +1200,20 @@
         "extra": [
           "https://www.facebook.com/watch/?ref=saved&v=2617572238761071"
         ]
-      }
+      },
+      "poster": "/media/posters/orient.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128034-PHcAWDtmPuAK.jpg",
+      "tags": [
+        "2022",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "fantasy",
+        "historical",
+        "japonais",
+        "samurai",
+        "shounen"
+      ]
     },
     {
       "id": "extraordinary-attorney-woo",
@@ -949,7 +1248,17 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1CKbdw5oYN/",
         "page": "K Drama Diary"
-      }
+      },
+      "poster": "/media/posters/extraordinary-attorney-woo.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035908.jpg",
+      "tags": [
+        "2022",
+        "Netflix",
+        "coréen",
+        "drama",
+        "legal drama",
+        "romance"
+      ]
     },
     {
       "id": "severance",
@@ -984,7 +1293,15 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/1LpVKsz4nf/",
         "page": "dani.cinema"
-      }
+      },
+      "poster": "/media/posters/severance.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/548/1371406.jpg",
+      "tags": [
+        "2022",
+        "drama",
+        "mystery & thriller",
+        "sci-fi"
+      ]
     },
     {
       "id": "mouse-2021",
@@ -1013,7 +1330,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/19htVtmqhR/",
         "page": "Kdrama world"
-      }
+      },
+      "poster": "/media/posters/mouse-2021.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/296/741376.jpg",
+      "tags": [
+        "2021",
+        "Prime Video",
+        "action",
+        "coréen",
+        "crime",
+        "mystery",
+        "sci-fi",
+        "thriller"
+      ]
     },
     {
       "id": "fool-night",
@@ -1036,7 +1365,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/19MjVUbCqq/",
         "page": "Eriito Abdullah"
-      }
+      },
+      "poster": "/media/posters/fool-night.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213457-gN5p1GZjK3zi.jpg",
+      "tags": [
+        "2026",
+        "Netflix",
+        "drama",
+        "japonais",
+        "psychological",
+        "sci-fi",
+        "seinen",
+        "thriller"
+      ]
     },
     {
       "id": "the-ordinary-jackpot",
@@ -1059,7 +1400,15 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/19g4DLQ6FY/",
         "page": "كيدراميكا"
-      }
+      },
+      "poster": "/media/posters/the-ordinary-jackpot.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/636/1591799.jpg",
+      "tags": [
+        "2026",
+        "coréen",
+        "drama",
+        "workplace comedy"
+      ]
     },
     {
       "id": "ive-somehow-gotten-stronger-farm-skills",
@@ -1103,7 +1452,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/18HYmPpHiC/",
         "page": "Anime SPM"
-      }
+      },
+      "poster": "/media/posters/ive-somehow-gotten-stronger-farm-skills.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145815-XsgcXy7WzgtK.png",
+      "tags": [
+        "2022",
+        "ADN",
+        "Prime Video",
+        "action",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "japonais"
+      ]
     },
     {
       "id": "welcome-to-the-outcasts-restaurant",
@@ -1144,7 +1505,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1DguGY6Ahd/",
         "page": "Anime SPM"
-      }
+      },
+      "poster": "/media/posters/welcome-to-the-outcasts-restaurant.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+      "tags": [
+        "2025",
+        "Crunchyroll",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "gourmet",
+        "japonais",
+        "slice of life"
+      ]
     },
     {
       "id": "cashero",
@@ -1179,7 +1552,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1EdTaZrbHK/",
         "page": "Jo Sée"
-      }
+      },
+      "poster": "/media/posters/cashero.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/605/1513692.jpg",
+      "tags": [
+        "2025",
+        "Netflix",
+        "action",
+        "comedy",
+        "coréen",
+        "drama",
+        "fantasy",
+        "superhero"
+      ]
     },
     {
       "id": "raised-by-demons-panda-li",
@@ -1212,7 +1597,17 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/14oSRHpVuMw/",
         "page": "Otakuweek"
-      }
+      },
+      "poster": "/media/posters/raised-by-demons-panda-li.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211220-fkWS8gCM2rA5.png",
+      "tags": [
+        "2026",
+        "action",
+        "adventure",
+        "chinois",
+        "en cours",
+        "fantasy"
+      ]
     },
     {
       "id": "tojima-wants-to-be-a-kamen-rider",
@@ -1250,7 +1645,18 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1Hy5DbszEB/",
         "page": "Anim"
-      }
+      },
+      "poster": "/media/posters/tojima-wants-to-be-a-kamen-rider.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
+      "tags": [
+        "2025",
+        "Crunchyroll",
+        "action",
+        "comedy",
+        "japonais",
+        "seinen",
+        "super power"
+      ]
     },
     {
       "id": "i-got-a-cheat-skill-in-another-world",
@@ -1289,7 +1695,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/r/14sLuKTm3ZF/",
         "page": "Anima Don"
-      }
+      },
+      "poster": "/media/posters/i-got-a-cheat-skill-in-another-world.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153845-C47aoKy7wf19.jpg",
+      "tags": [
+        "2023",
+        "Crunchyroll",
+        "action",
+        "adventure",
+        "fantasy",
+        "isekai",
+        "japonais",
+        "romance"
+      ]
     },
     {
       "id": "flex-x-cop",
@@ -1315,7 +1733,19 @@
       "facebook": {
         "share": "https://www.facebook.com/share/v/1FYfRKAupo/",
         "page": "Onniedelrusul"
-      }
+      },
+      "poster": "/media/posters/flex-x-cop.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/500/1252007.jpg",
+      "tags": [
+        "2024",
+        "action",
+        "adventure",
+        "comedy",
+        "coréen",
+        "crime",
+        "romantic comedy",
+        "thriller"
+      ]
     }
   ]
 }

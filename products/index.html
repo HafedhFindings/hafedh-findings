@@ -3,101 +3,68 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Facebook products finding</title>
+<title>Produits · Hafedh findings</title>
+<script>document.documentElement.dataset.theme=localStorage.getItem("hf-theme")||"light";</script>
 <style>
-:root { --bg:#f6f1e8; --ink:#1a1714; --card:#fff; --muted:#6b645c; --line:#e4d9c8; --tag:#2c6e49; --warn:#8a3b12; }
-* { box-sizing: border-box; }
-body { margin:0; background:var(--bg); color:var(--ink); font: 16px/1.45 "Source Serif 4", Georgia, serif; }
-header { max-width:1080px; margin:0 auto; padding:40px 20px 8px; }
-h1 { margin:0 0 8px; font-size:28px; }
-.sub { color:var(--muted); font-family: system-ui, sans-serif; font-size:14px; }
-.filters { max-width:1080px; margin:0 auto; padding:12px 20px; display:flex; flex-direction:column; gap:10px; font-family:system-ui,sans-serif; font-size:13px; }
-.row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
-.row span { color:var(--muted); min-width:90px; }
-button { border:1px solid var(--line); background:#fff; border-radius:999px; padding:6px 12px; cursor:pointer; color:var(--ink); }
-button[aria-pressed="true"] { background:var(--ink); color:#fff; border-color:var(--ink); }
-main { max-width:1080px; margin:0 auto; padding:8px 20px 64px; display:grid; gap:16px; }
-article { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 18px; }
-article h2 { margin:0 0 6px; font-size:20px; }
-.chips { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0; }
-.chips b { font-family:system-ui,sans-serif; font-size:11px; font-weight:600; padding:3px 8px; border-radius:999px; background:#efe6d6; }
-.claimed { color:var(--muted); margin:0 0 10px; }
-.providers { display:grid; gap:8px; }
-@media(min-width:720px){ .providers { grid-template-columns: repeat(3,1fr); } }
-.providers a { display:block; text-decoration:none; color:inherit; border:1px solid var(--line); border-radius:12px; padding:10px; }
-.providers a strong { display:block; font-size:13px; font-family:system-ui,sans-serif; }
-.price { font-size:18px; margin:4px 0; }
-.rating { font-family:system-ui,sans-serif; font-size:12px; color:var(--muted); }
-.verdict { margin-top:10px; font-size:14px; }
-.empty { color:var(--muted); padding:32px 0; }
-.fb { font-family:system-ui,sans-serif; font-size:13px; }
+:root{--bg:#f7f6f2;--card:#fff;--text:#1d1c1a;--muted:#6b6860;--line:#e3e0d8;--accent:#9a5b13;--chip:#f0ece3}
+[data-theme=dark]{--bg:#0b0b0f;--card:#15151d;--text:#f2f2f6;--muted:#9aa0b4;--line:#2a2a36;--accent:#e8c07a;--chip:#20202a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,sans-serif}
+.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{max-width:1200px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.brand{font:600 18px Georgia,serif;margin-right:8px}
+.tabs{display:flex;gap:4px;flex-wrap:wrap}.tabs a{padding:7px 14px;border-radius:999px;color:var(--muted);text-decoration:none;border:1px solid transparent}
+.tabs a.on{color:var(--text);border-color:var(--line);background:var(--card);font-weight:600}
+.sub a{font-size:13px;padding:5px 12px}
+#theme{margin-left:auto;background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer}
+.tools{max-width:1200px;margin:0 auto;padding:12px 20px 0;display:flex;flex-direction:column;gap:10px}
+#q{width:100%;max-width:420px;padding:9px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);font-size:15px}
+.tagbar{display:flex;flex-wrap:wrap;gap:6px}.tag{font-size:12px;padding:3px 9px;border-radius:999px;background:var(--chip);color:var(--muted);border:1px solid var(--line);cursor:pointer}
+.tag.on{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.count{color:var(--muted);font-size:13px}
+main{max-width:1200px;margin:0 auto;padding:16px 20px 48px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+article{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+article img{width:100%;aspect-ratio:2/3;object-fit:cover;background:var(--chip)}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px}
+h2{font:600 17px Georgia,serif;margin:0}.meta{font-size:12px;color:var(--muted)}
+a{color:var(--accent)}.links{display:flex;flex-wrap:wrap;gap:6px;font-size:13px}
+.empty{grid-column:1/-1;color:var(--muted);padding:40px 0}
+.providers a{display:block;font-size:13px;margin:2px 0}
 </style>
 </head>
 <body>
-<header>
-  <h1>Facebook products finding</h1>
-  <p class="sub">Amazon.fr, boutique FR légitime, boutique mondiale · filtres catégorie et « dédié à »</p>
-</header>
-<div class="filters">
-  <div class="row" id="cats"><span>Catégorie</span></div>
-  <div class="row" id="for"><span>Dédié à</span></div>
-</div>
+<div class="top"><div class="bar"><span class="brand">Hafedh findings</span>
+<nav class="tabs"><a href="/media/" class="">Médias</a><a href="/products/" class="on">Produits</a></nav>
+<button id="theme" type="button">☾ Sombre</button></div>
+<div class="bar" style="padding-top:0"><nav class="tabs sub" id="subtabs"></nav></div></div>
+<div class="tools"><input id="q" type="search" placeholder="Rechercher…"><div class="tagbar" id="tags"></div><div class="count" id="count"></div></div>
 <main id="grid"></main>
 <script>
-let data = { items: [], dedicated_for: [], categories: [] };
-let cat = "all", person = "all";
-async function load() {
-  data = await (await fetch("catalog.json")).json();
-  renderFilters();
-  render();
+const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function setTheme(t){document.documentElement.dataset.theme=t;localStorage.setItem("hf-theme",t);$("#theme").textContent=t==="dark"?"☀ Clair":"☾ Sombre"}
+$("#theme").onclick=()=>setTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");setTheme(document.documentElement.dataset.theme);
+let data={items:[]},sel=new Set();
+function tab(){return decodeURIComponent(location.hash.slice(1))||"all"}
+function boot(TABS,tabOf,card){
+ fetch("catalog.json").then(r=>r.json()).then(d=>{data=d;draw()});
+ window.onhashchange=()=>{sel.clear();draw()};$("#q").oninput=draw;
+ function draw(){const t=tab();
+  $("#subtabs").innerHTML=TABS.map(([id,l])=>{const n=id==="all"?data.items.length:data.items.filter(i=>tabOf(i)===id).length;return `<a href="#${id}" class="${id===t?"on":""}">${l} (${n})</a>`}).join("");
+  const inTab=data.items.filter(i=>t==="all"||tabOf(i)===t);
+  const freq={};inTab.forEach(i=>(i.tags||[]).forEach(g=>freq[g]=(freq[g]||0)+1));
+  const tags=Object.keys(freq).sort((a,b)=>freq[b]-freq[a]||a.localeCompare(b)).slice(0,60);
+  $("#tags").innerHTML=tags.map(g=>`<span class="tag ${sel.has(g)?"on":""}" data-t="${esc(g)}">${esc(g)} ${freq[g]}</span>`).join("");
+  $("#tags").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{const g=e.dataset.t;sel.has(g)?sel.delete(g):sel.add(g);draw()});
+  const q=$("#q").value.toLowerCase().trim();
+  const items=inTab.filter(i=>[...sel].every(g=>(i.tags||[]).includes(g))&&(!q||JSON.stringify(i).toLowerCase().includes(q)));
+  $("#count").textContent=items.length+" élément(s)";
+  $("#grid").innerHTML=items.length?items.map(card).join(""):'<p class="empty">Aucun élément pour ce filtre.</p>';
+  $("#grid").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{sel.add(e.dataset.t);draw()});
+ }
 }
-function pill(parent, id, label, current, setter) {
-  const b = document.createElement("button");
-  b.textContent = label;
-  b.setAttribute("aria-pressed", id === current ? "true" : "false");
-  b.onclick = () => { setter(id); renderFilters(); render(); };
-  parent.appendChild(b);
-}
-function renderFilters() {
-  const cats = document.getElementById("cats");
-  const fors = document.getElementById("for");
-  cats.innerHTML = "<span>Catégorie</span>";
-  fors.innerHTML = "<span>Dédié à</span>";
-  pill(cats, "all", "Toutes", cat, v => cat = v);
-  (data.categories || []).forEach(c => pill(cats, c, c, cat, v => cat = v));
-  pill(fors, "all", "Tous", person, v => person = v);
-  (data.dedicated_for || []).forEach(p => pill(fors, p, p, person, v => person = v));
-  pill(fors, "untagged", "sans nom", person, v => person = v);
-}
-function render() {
-  const grid = document.getElementById("grid");
-  const items = (data.items || []).filter(i => {
-    if (cat !== "all" && i.category !== cat) return false;
-    if (person === "untagged" && i.dedicated_for) return false;
-    if (person !== "all" && person !== "untagged" && i.dedicated_for !== person) return false;
-    return true;
-  });
-  if (!items.length) {
-    grid.innerHTML = '<p class="empty">Aucun produit pour ce filtre.</p>';
-    return;
-  }
-  grid.innerHTML = "";
-  items.forEach(i => {
-    const el = document.createElement("article");
-    const who = i.dedicated_for || "sans nom";
-    const prov = (i.providers || []).map(p =>
-      `<a href="${p.url}" target="_blank" rel="noopener"><strong>${p.name}</strong><div class="price">${p.price || ""}</div><div class="rating">${p.rating || ""}</div><div class="rating">${p.reviews || ""}</div></a>`
-    ).join("");
-    el.innerHTML = `<h2>${i.title}</h2>
-      <div class="chips"><b>${i.category || ""}</b><b>${who}</b></div>
-      <p class="claimed">${i.claimed || ""}</p>
-      <div class="providers">${prov}</div>
-      <p class="verdict">${i.review_verdict || ""} · ${i.best_price || ""}</p>
-      ${i.facebook ? `<p><a class="fb" href="${i.facebook}" target="_blank" rel="noopener">Facebook link</a></p>` : ""}`;
-    grid.appendChild(el);
-  });
-}
-load();
-</script>
-</body>
-</html>
+fetch("catalog.json").then(r=>r.json()).then(d=>{
+const TABS=[["all","Tout"]].concat((d.categories||[]).map(c=>[c,c[0].toUpperCase()+c.slice(1)]));
+boot(TABS,i=>i.category||"autre",i=>`<article><div class="body"><h2>${esc(i.title)}</h2>
+ <div class="tagbar">${(i.tags||[]).map(g=>`<span class="tag" data-t="${esc(g)}">${esc(g)}</span>`).join("")}</div>
+ <p class="meta">${esc(i.claimed)}</p><div class="providers">${(i.providers||[]).map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener"><b>${esc(p.name)}</b> ${esc(p.price||"")} ${esc(p.rating||"")}</a>`).join("")}</div>
+ <p class="meta">${esc(i.review_verdict)} · <b>${esc(i.best_price)}</b></p>${i.facebook?`<a class="meta" href="${esc(i.facebook)}" target="_blank" rel="noopener">Clip Facebook</a>`:""}</div></article>`)});
+</script></body></html>
