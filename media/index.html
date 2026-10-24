@@ -28,6 +28,7 @@ article img{width:100%;aspect-ratio:2/3;object-fit:cover;background:var(--chip)}
 h2{font:600 17px Georgia,serif;margin:0}.meta{font-size:12px;color:var(--muted)}
 a{color:var(--accent)}.links{display:flex;flex-wrap:wrap;gap:6px;font-size:13px}
 .empty{grid-column:1/-1;color:var(--muted);padding:40px 0}
+.plat{font-size:13px;margin:2px 0}.plat .ok{color:#2e8b57}.plat .todo{color:#c0392b}
 .providers a{display:block;font-size:13px;margin:2px 0}
 </style>
 </head>
@@ -36,7 +37,7 @@ a{color:var(--accent)}.links{display:flex;flex-wrap:wrap;gap:6px;font-size:13px}
 <nav class="tabs"><a href="/media/" class="on">Médias</a><a href="/products/" class="">Produits</a></nav>
 <button id="theme" type="button">☾ Sombre</button></div>
 <div class="bar" style="padding-top:0"><nav class="tabs sub" id="subtabs"></nav></div></div>
-<div class="tools"><input id="q" type="search" placeholder="Rechercher…"><div class="tagbar" id="tags"></div><div class="count" id="count"></div></div>
+<div class="tools"><input id="q" type="search" placeholder="Rechercher…"><div id="tags"></div><div class="count" id="count"></div></div>
 <main id="grid"></main>
 <script>
 const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -50,25 +51,31 @@ function boot(TABS,tabOf,card){
  function draw(){const t=tab();
   $("#subtabs").innerHTML=TABS.map(([id,l])=>{const n=id==="all"?data.items.length:data.items.filter(i=>tabOf(i)===id).length;return `<a href="#${id}" class="${id===t?"on":""}">${l} (${n})</a>`}).join("");
   const inTab=data.items.filter(i=>t==="all"||tabOf(i)===t);
-  const freq={};inTab.forEach(i=>(i.tags||[]).forEach(g=>freq[g]=(freq[g]||0)+1));
-  const tags=Object.keys(freq).sort((a,b)=>freq[b]-freq[a]||a.localeCompare(b)).slice(0,60);
-  $("#tags").innerHTML=tags.map(g=>`<span class="tag ${sel.has(g)?"on":""}" data-t="${esc(g)}">${esc(g)} ${freq[g]}</span>`).join("");
+  const KEYS=window.TAGKEYS||[["tags",""]];
+  $("#tags").innerHTML=KEYS.map(([k,l])=>{const freq={};inTab.forEach(i=>(i[k]||[]).forEach(g=>freq[g]=(freq[g]||0)+1));
+   const ts=Object.keys(freq).sort((a,b)=>freq[b]-freq[a]||a.localeCompare(b)).slice(0,60);
+   return ts.length?`<div class="tagbar">${l?`<span class="meta" style="min-width:80px">${l}</span>`:""}${ts.map(g=>`<span class="tag ${sel.has(g)?"on":""}" data-t="${esc(g)}">${esc(g)} ${freq[g]}</span>`).join("")}</div>`:""}).join("");
+  $("#tags").style.cssText="display:flex;flex-direction:column;gap:6px";
   $("#tags").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{const g=e.dataset.t;sel.has(g)?sel.delete(g):sel.add(g);draw()});
+  const all=i=>KEYS.flatMap(([k])=>i[k]||[]);
   const q=$("#q").value.toLowerCase().trim();
-  const items=inTab.filter(i=>[...sel].every(g=>(i.tags||[]).includes(g))&&(!q||JSON.stringify(i).toLowerCase().includes(q)));
+  const items=inTab.filter(i=>[...sel].every(g=>all(i).includes(g))&&(!q||JSON.stringify(i).toLowerCase().includes(q)));
   $("#count").textContent=items.length+" élément(s)";
   $("#grid").innerHTML=items.length?items.map(card).join(""):'<p class="empty">Aucun élément pour ce filtre.</p>';
   $("#grid").querySelectorAll(".tag").forEach(e=>e.onclick=()=>{sel.add(e.dataset.t);draw()});
  }
 }
+window.TAGKEYS=[["ptags","Plateformes"],["vtags","VPN"],["tags","Tags"]];
+const PN={netflix:"Netflix",amazon_prime:"Prime Video",crunchyroll:"Crunchyroll"},CN={FR:"France",BE:"Belgique",CH:"Suisse",GB:"Royaume-Uni",US:"États-Unis",CA:"Canada",DE:"Allemagne",ES:"Espagne",IT:"Italie",NL:"Pays-Bas",JP:"Japon",KR:"Corée du Sud",BR:"Brésil",MX:"Mexique",AU:"Australie",IN:"Inde",TR:"Turquie"};
 const TABS=[["all","Tout"],["anime","Animes"],["movie","Films"],["tv","Séries"],["comedian","Humour/Comédiens"],["other","Vidéos/Autres"]];
 const tabOf=i=>({anime:"anime",donghua:"anime",movie:"movie",film:"movie",tv:"tv",series:"tv",comedian:"comedian",comedy:"comedian"}[i.category]||"other");
 boot(TABS,tabOf,i=>{
  const sc=[i.imdb&&i.imdb.score!=null?`<a href="${esc(i.imdb.url)}" target="_blank">IMDb ${i.imdb.score}</a>`:"",i.rt&&i.rt.score!=null?`<a href="${esc(i.rt.url)}" target="_blank">RT ${i.rt.score}%</a>`:"",i.mal&&i.mal.score!=null?`<a href="${esc(i.mal.url)}" target="_blank">MAL ${i.mal.score}</a>`:""].join(" ");
- const w=(i.watch_fr||[]).concat(i.full_links||[]).map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener">▶ ${esc(p.name)}</a>`).join("");
+ const pl=Object.entries(i.platforms||{}).map(([p,v])=>`<div class="plat"><a href="${esc(v.url)}" target="_blank" rel="noopener"><b>${PN[p]}</b> ${v.fr?"🇫🇷":"via VPN : "+(CN[v.vpn_country]||v.vpn_country)}</a> · <span class="${v.watchlist==="ajouté à tes favoris"?"ok":"todo"}">${esc(v.watchlist)}</span></div>`).join("")||'<div class="meta">Sur aucune des 3 plateformes</div>';
+ const w=(i.watch_fr||[]).filter(p=>!/netflix|prime|crunchyroll/i.test(p.id+p.name)).concat(i.full_links||[]).map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener">▶ ${esc(p.name)}</a>`).join("");
  const fb=i.facebook&&(i.facebook.share||i.facebook.reel||i.facebook.url||(typeof i.facebook==="string"?i.facebook:""));
  return `<article>${i.poster?`<img loading="lazy" src="${esc(i.poster)}" alt="">`:""}<div class="body"><h2>${esc(i.title)}</h2>
- <div class="meta">${esc(i.year||"")} · ${esc(i.runtime||"")}</div><div class="links">${sc}</div><div class="links">${w}</div>
+ <div class="meta">${esc(i.year||"")} · ${esc(i.runtime||"")}</div><div class="links">${sc}</div><div>${pl}</div><div class="links">${w}</div>
  <div class="tagbar">${(i.tags||[]).map(g=>`<span class="tag" data-t="${esc(g)}">${esc(g)}</span>`).join("")}</div>
  ${fb?`<a class="meta" href="${esc(fb)}" target="_blank" rel="noopener">Clip Facebook</a>`:""}</div></article>`});
 </script></body></html>

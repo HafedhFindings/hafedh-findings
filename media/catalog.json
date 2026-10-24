@@ -59,13 +59,65 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
       "tags": [
         "2024",
-        "Crunchyroll",
         "action",
         "adventure",
         "coréen",
         "fantasy",
         "japonais",
         "urban fantasy"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81749761",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.88c18e5f-98d0-4ad4-b43c-7a30225f61a5",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00320669PLPL",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -121,7 +173,10 @@
         "drama",
         "historical",
         "wuxia"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "silo",
@@ -169,7 +224,10 @@
         "drama",
         "mystery & thriller",
         "sci-fi"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "overgeared",
@@ -231,7 +289,6 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
         "action",
         "adventure",
         "comedy",
@@ -240,6 +297,56 @@
         "fantasy",
         "japonais",
         "video game"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82948047",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.8e2d12cc-fec9-458d-975d-2c39a2337794",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00384228TLPH",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -284,10 +391,12 @@
         "action",
         "chinois",
         "fantasy",
-        "hors plateformes",
         "sci-fi",
         "super power"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "frontier-lord-begins-with-zero-subjects",
@@ -327,13 +436,50 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
         "action",
         "comedy",
         "fantasy",
         "japonais",
         "romance",
         "slice of life"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=B0H4NDKSCT",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00380324JAJP",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -365,11 +511,13 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
       "tags": [
         "2026",
-        "Netflix",
         "drama",
         "historical",
         "japonais"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "uq-holder",
@@ -403,12 +551,40 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21855-4Dpxr8GQ4BKy.jpg",
       "tags": [
         "2017",
-        "Crunchyroll",
         "action",
         "adventure",
         "comedy",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "CA"
+          ],
+          "vpn_country": "CA",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbbb008-535b-45ab-1106-24fd7945eb0e",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "CH",
+            "DE",
+            "TR"
+          ],
+          "vpn_country": "CH",
+          "url": "https://www.crunchyroll.com/watch/G4VUQENVG/",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -436,9 +612,11 @@
         "comedy",
         "coréen",
         "drama",
-        "horror",
-        "hors plateformes"
-      ]
+        "horror"
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "the-killing-of-a-sacred-deer",
@@ -465,9 +643,36 @@
       "tags": [
         "2017",
         "drama",
-        "hors plateformes",
         "mystery",
         "thriller"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "CA"
+          ],
+          "vpn_country": "CA",
+          "url": "https://www.netflix.com/title/80187360",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.1fae14e6-91c4-4509-8f4a-b40f5870b5fb",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -495,8 +700,24 @@
       "tags": [
         "2025",
         "action",
-        "hors plateformes",
         "thriller"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.0016a7cf-7e00-40fd-851c-d653ee312426",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -526,10 +747,12 @@
         "coréen",
         "crime",
         "drama",
-        "hors plateformes",
         "mystery",
         "thriller"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "quality-assurance-in-another-world",
@@ -572,12 +795,53 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg",
       "tags": [
         "2024",
-        "Crunchyroll",
         "adventure",
         "comedy",
         "fantasy",
         "japonais",
         "science fiction"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.16c2cbad-c359-4dd1-946a-30905e85e7b6",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GK9U3E0Q3",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -613,10 +877,12 @@
         "action",
         "comedy",
         "fantasy",
-        "hors plateformes",
         "japonais",
         "urban fantasy"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "the-eminence-in-shadow",
@@ -655,13 +921,56 @@
       "tags": [
         "2022",
         "ADN",
-        "Prime Video",
         "action",
         "comedy",
         "fantasy",
         "isekai",
         "japonais",
         "reincarnation"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81642096",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "CA",
+            "DE",
+            "JP"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -704,7 +1013,6 @@
       "tags": [
         "1997",
         "ADN",
-        "Prime Video",
         "action",
         "adventure",
         "drama",
@@ -715,6 +1023,44 @@
         "military",
         "psychological",
         "seinen"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "DE",
+            "ES",
+            "NL",
+            "BR",
+            "MX",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80243876",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "JP"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1a64d1d8-3d04-44d7-822d-95b5aa75b220",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -758,12 +1104,63 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-9sNnN8WRgK15.jpg",
       "tags": [
         "2021",
-        "Crunchyroll",
         "action",
         "adventure",
         "comedy",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81644043",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.9d448255-6c51-4b0f-9c61-722fe27fda51",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GJWU2GKWZ",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -811,7 +1208,6 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
       "tags": [
         "2024",
-        "Crunchyroll",
         "action",
         "chinois",
         "drama",
@@ -820,7 +1216,10 @@
         "supernatural",
         "thriller",
         "time travel"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "sakamoto-days",
@@ -859,12 +1258,54 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
       "tags": [
         "2025",
-        "Netflix",
         "action",
         "adult cast",
         "comedy",
         "japonais",
         "organized crime"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81663325",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.0cec81ad-0d70-488d-adae-a3c154964491",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -904,6 +1345,25 @@
         "adventure",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81910115",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -944,12 +1404,53 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-JnepQcVxXLLW.jpg",
       "tags": [
         "2023",
-        "Crunchyroll",
         "action",
         "adventure",
         "drama",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.63fb3d56-ffbd-4b54-a7a0-c26299adf545",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G8WUNJGGM",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -990,13 +1491,64 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126213-cXF3hsCcOipI.jpg",
       "tags": [
         "2021",
-        "Crunchyroll",
         "adventure",
         "comedy",
         "fantasy",
         "japonais",
         "romance",
         "slice of life"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81565592",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.4cd08d72-b600-4259-80ba-72bb24388819",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G14U4WEWW",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1033,11 +1585,62 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
       "tags": [
         "2025",
-        "Crunchyroll",
         "adventure",
         "fantasy",
         "japonais",
         "medical"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82025664",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.ffe7727b-14e7-4278-b6c4-a4aef9c1f2a2",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G0DUMXG9D",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1081,12 +1684,43 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-xQxzQRAerw53.jpg",
       "tags": [
         "2025",
-        "Crunchyroll",
         "action",
         "fantasy",
         "japonais",
         "mystery",
         "suspense"
+      ],
+      "platforms": {
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00353734TLPH",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1123,7 +1757,10 @@
         "crime",
         "mystery",
         "thriller"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "seraph-of-the-end",
@@ -1158,6 +1795,23 @@
         "japonais",
         "military",
         "vampire"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.5a9cbc13-06d2-4ef2-8fbe-cbe3f04eacd1",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -1205,7 +1859,6 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128034-PHcAWDtmPuAK.jpg",
       "tags": [
         "2022",
-        "Crunchyroll",
         "action",
         "adventure",
         "fantasy",
@@ -1213,7 +1866,10 @@
         "japonais",
         "samurai",
         "shounen"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "extraordinary-attorney-woo",
@@ -1253,11 +1909,43 @@
       "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035908.jpg",
       "tags": [
         "2022",
-        "Netflix",
         "coréen",
         "drama",
         "legal drama",
         "romance"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81518991",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1301,7 +1989,10 @@
         "drama",
         "mystery & thriller",
         "sci-fi"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "mouse-2021",
@@ -1335,13 +2026,44 @@
       "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/296/741376.jpg",
       "tags": [
         "2021",
-        "Prime Video",
         "action",
         "coréen",
         "crime",
         "mystery",
         "sci-fi",
         "thriller"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4f8778be-699e-415f-b012-332fa03d25f4",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1370,14 +2092,16 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213457-gN5p1GZjK3zi.jpg",
       "tags": [
         "2026",
-        "Netflix",
         "drama",
         "japonais",
         "psychological",
         "sci-fi",
         "seinen",
         "thriller"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "the-ordinary-jackpot",
@@ -1408,7 +2132,10 @@
         "coréen",
         "drama",
         "workplace comedy"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "ive-somehow-gotten-stronger-farm-skills",
@@ -1458,12 +2185,31 @@
       "tags": [
         "2022",
         "ADN",
-        "Prime Video",
         "action",
         "adventure",
         "comedy",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "JP"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b8512336-9f32-41be-a161-33c8e306f8af",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1510,13 +2256,54 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
       "tags": [
         "2025",
-        "Crunchyroll",
         "adventure",
         "comedy",
         "fantasy",
         "gourmet",
         "japonais",
         "slice of life"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.38426e4e-bd0e-4e4f-9e10-06f442668f1f",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G14UVP2J5",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1557,13 +2344,45 @@
       "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/605/1513692.jpg",
       "tags": [
         "2025",
-        "Netflix",
         "action",
         "comedy",
         "coréen",
         "drama",
         "fantasy",
         "superhero"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81028446",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1607,7 +2426,10 @@
         "chinois",
         "en cours",
         "fantasy"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "tojima-wants-to-be-a-kamen-rider",
@@ -1650,12 +2472,63 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
       "tags": [
         "2025",
-        "Crunchyroll",
         "action",
         "comedy",
         "japonais",
         "seinen",
         "super power"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82162824",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.009a5d76-482f-4a79-aa46-e8438fb69a19",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00364947ES419",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1700,13 +2573,56 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153845-C47aoKy7wf19.jpg",
       "tags": [
         "2023",
-        "Crunchyroll",
         "action",
         "adventure",
         "fantasy",
         "isekai",
         "japonais",
         "romance"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81681485",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G14UV4GZQ",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1745,7 +2661,10 @@
         "crime",
         "romantic comedy",
         "thriller"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "the-wrong-way-to-use-healing-magic-2024",
@@ -1790,10 +2709,52 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137908-50af3lKVbst2.jpg",
       "tags": [
         "2024",
-        "Crunchyroll",
         "action",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81747942",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G4VUW7EJG",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -1830,11 +2791,13 @@
       "poster_source": "https://images.justwatch.com/poster/344578529/s592/clayface.jpg",
       "tags": [
         "2026",
-        "hors plateformes",
         "hrr",
         "scf",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "fate-strange-fake-2026",
@@ -1882,11 +2845,13 @@
         "action",
         "adventure",
         "fantasy",
-        "hors plateformes",
         "japonais",
         "mystery",
         "supernatural"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "emprise-2002",
@@ -1924,8 +2889,25 @@
         "2002",
         "crm",
         "drm",
-        "hors plateformes",
         "trl"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "CA",
+            "ES"
+          ],
+          "vpn_country": "CA",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.04113b2b-cf3f-421c-8f99-c9020aa5529a",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -1966,9 +2948,11 @@
       "poster_source": "https://images.justwatch.com/poster/334996934/s592/the-reunion-2025.jpg",
       "tags": [
         "2025",
-        "hors plateformes",
         "hrr"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "phenomenes-paranormaux-2009",
@@ -2012,10 +2996,26 @@
       "poster_source": "https://images.justwatch.com/poster/300488223/s592/phenomenes-paranormaux.jpg",
       "tags": [
         "2009",
-        "hors plateformes",
         "hrr",
         "scf",
         "trl"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "DE"
+          ],
+          "vpn_country": "DE",
+          "url": "https://watch.amazon.de/detail?gti=amzn1.dv.gti.eed5b910-9469-4b81-a2f3-61c45c6b0c8e",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -2071,12 +3071,84 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
-        "Netflix",
-        "Prime Video",
         "action",
         "comedy",
         "japonais"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/82757009",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "JP",
+            "BR",
+            "MX",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8eb355ee-8001-4741-a2a2-6a6d83b02357",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00375331DEDE",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2124,13 +3196,64 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
       "tags": [
         "2020",
-        "Crunchyroll",
         "action",
         "adventure",
         "drama",
         "fantasy",
         "japonais",
         "mystery"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/jp-en/title/81329313",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.2b65953c-d45d-486f-a849-baef1ebaa123",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GD9UEZGKW",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2176,7 +3299,6 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
       "tags": [
         "2016",
-        "Crunchyroll",
         "action",
         "adventure",
         "drama",
@@ -2185,6 +3307,59 @@
         "psychological",
         "romance",
         "thriller"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR",
+            "IN"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81262169",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.152a87dd-150e-411f-9520-662983852462",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GD9UEZ2VX",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2222,9 +3397,29 @@
       "poster_source": "https://images.justwatch.com/poster/332336416/s592/witchboard.jpg",
       "tags": [
         "2025",
-        "Prime Video",
         "drm",
         "hrr"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4fc84298-dde7-497d-af36-8e496a249df6",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2262,8 +3457,36 @@
       "tags": [
         "2019",
         "cmy",
-        "hors plateformes",
         "hrr"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "US"
+          ],
+          "vpn_country": "US",
+          "url": "https://www.netflix.com/title/81131575",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "CH",
+            "DE",
+            "ES"
+          ],
+          "vpn_country": "CH",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eab9edf4-f1f5-4212-ba9f-d034d4f9001f",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -2305,9 +3528,11 @@
       "tags": [
         "2006",
         "drm",
-        "hors plateformes",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "the-wonderfools-2026",
@@ -2340,11 +3565,43 @@
       "poster_source": "https://images.justwatch.com/poster/345787194/s592/the-wonderfools.jpg",
       "tags": [
         "2026",
-        "Netflix",
         "act",
         "cmy",
         "drm",
         "scf"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81948067",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2391,8 +3648,30 @@
         "2017",
         "cmy",
         "drm",
-        "hors plateformes",
         "war"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "GB",
+            "US",
+            "CA",
+            "ES",
+            "JP",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": "GB",
+          "url": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.feb952f0-4eae-9912-f5d6-502d268d1bed",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -2430,11 +3709,48 @@
       "poster_source": "https://images.justwatch.com/poster/71552488/s592/along-with-the-gods-the-last-49-days.jpg",
       "tags": [
         "2018",
-        "Netflix",
         "act",
         "drm",
         "fnt",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "DE",
+            "NL",
+            "KR",
+            "BR",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81017092",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "US",
+            "CA",
+            "JP",
+            "IN"
+          ],
+          "vpn_country": "US",
+          "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b68b6a8e-54a6-460f-a412-c318dc966e16",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2473,9 +3789,11 @@
         "2020",
         "cmy",
         "drm",
-        "hors plateformes",
         "scf"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "demon-slayer-kimetsu-no-yaiba-2019",
@@ -2530,15 +3848,91 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
       "tags": [
         "2019",
-        "Crunchyroll",
-        "Netflix",
-        "Prime Video",
         "action",
         "adventure",
         "drama",
         "fantasy",
         "japonais",
         "supernatural"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81091393",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "JP",
+            "BR",
+            "MX",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a21fb024-b946-479b-9c83-5441b80b8549",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00336262PLPL",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2577,11 +3971,43 @@
       "poster_source": "https://images.justwatch.com/poster/349702933/s592/agent-kim-reactivated.jpg",
       "tags": [
         "2026",
-        "Netflix",
         "act",
         "crm",
         "drm",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/82682338",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2619,10 +4045,12 @@
       "tags": [
         "1998",
         "fnt",
-        "hors plateformes",
         "scf",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "la-cite-des-etoiles-2026",
@@ -2663,10 +4091,12 @@
       "tags": [
         "2026",
         "drm",
-        "hors plateformes",
         "scf",
         "war"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "chrysalis-2007",
@@ -2715,10 +4145,12 @@
         "crm",
         "drm",
         "eur",
-        "hors plateformes",
         "scf",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "plaisir-maximum-garanti-2026",
@@ -2761,9 +4193,11 @@
         "cmy",
         "crm",
         "drm",
-        "hors plateformes",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "marriagetoxin-2026",
@@ -2805,12 +4239,63 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
         "action",
         "comedy",
         "drama",
         "japonais",
         "romance"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP",
+            "KR"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82758413",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.75d5963a-c1d8-4538-adbe-5be9a6acd6d7",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00374970ES419",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -2852,9 +4337,11 @@
       "poster_source": "https://images.justwatch.com/poster/344395605/s592/le-reveil-de-la-momie.jpg",
       "tags": [
         "2026",
-        "hors plateformes",
         "hrr"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "gone-baby-gone-2007",
@@ -2896,8 +4383,35 @@
         "2007",
         "crm",
         "drm",
-        "hors plateformes",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/70065115",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "ES",
+            "IN"
+          ],
+          "vpn_country": "ES",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb867d08-fe4b-4216-89b4-9f6772d45e8e",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -2940,10 +4454,12 @@
         "2026",
         "cmy",
         "drm",
-        "hors plateformes",
         "hrr",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "mr-wolff-2016",
@@ -2990,8 +4506,43 @@
         "act",
         "crm",
         "drm",
-        "hors plateformes",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "BE",
+            "CH",
+            "ES",
+            "IT",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "TR"
+          ],
+          "vpn_country": "BE",
+          "url": "https://www.netflix.com/title/80071227",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "ES",
+            "IN"
+          ],
+          "vpn_country": "ES",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deabe202-93f7-5a8c-eb98-8d43d8803569",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -3037,13 +4588,43 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg",
       "tags": [
         "2016",
-        "Crunchyroll",
         "action",
         "drama",
         "fantasy",
         "horror",
         "japonais",
         "supernatural"
+      ],
+      "platforms": {
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G6G5E1336",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3081,11 +4662,46 @@
       "poster_source": "https://images.justwatch.com/poster/323609010/s592/predestination.jpg",
       "tags": [
         "2014",
-        "Netflix",
         "act",
         "drm",
         "scf",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "CA",
+            "ES",
+            "NL",
+            "BR",
+            "MX"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/70305196",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "IT",
+            "JP",
+            "IN"
+          ],
+          "vpn_country": "IT",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7cbaf167-a4f9-ade7-9338-d293b17d393c",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3123,10 +4739,40 @@
       "poster_source": "https://images.justwatch.com/poster/330246951/s592/until-dawn-la-mort-sans-fin.jpg",
       "tags": [
         "2025",
-        "Prime Video",
         "drm",
         "hrr",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "BE",
+            "US",
+            "NL",
+            "KR"
+          ],
+          "vpn_country": "BE",
+          "url": "https://www.netflix.com/title/81095950",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "JP"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41828545-65ce-42ed-8699-4c57bed4999c",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3164,9 +4810,34 @@
       "poster_source": "https://images.justwatch.com/poster/78489480/s592/the-battery.jpg",
       "tags": [
         "2012",
-        "Prime Video",
         "drm",
         "hrr"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7625328a-c88d-45e9-a4d6-83b95e9a299e",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3204,10 +4875,31 @@
       "poster_source": "https://images.justwatch.com/poster/279668255/s592/imperium.jpg",
       "tags": [
         "2016",
-        "Prime Video",
         "crm",
         "drm",
         "trl"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "CH",
+            "GB",
+            "CA",
+            "ES",
+            "IT"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ab5ebf2-bb0d-825a-3091-d00a90b4d22d",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3245,11 +4937,29 @@
       "poster_source": "https://images.justwatch.com/poster/177686251/s592/la-ville-fantome.jpg",
       "tags": [
         "2008",
-        "Netflix",
         "cmy",
         "drm",
         "fnt",
         "rma"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "CA",
+            "AU"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/70101370",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3295,9 +5005,26 @@
       "tags": [
         "2025",
         "drm",
-        "hors plateformes",
         "hrr",
         "trl"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "GB",
+            "IN"
+          ],
+          "vpn_country": "GB",
+          "url": "https://watch.amazon.co.uk/detail?gti=amzn1.dv.gti.47399225-3cf7-4071-802e-ebd84649d2d6",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -3348,9 +5075,11 @@
         "2026",
         "act",
         "crm",
-        "hors plateformes",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "mao-2026",
@@ -3407,11 +5136,38 @@
       "tags": [
         "2026",
         "drama",
-        "hors plateformes",
         "japonais",
         "mystery",
         "romance",
         "supernatural"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82758532",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "IT",
+            "JP"
+          ],
+          "vpn_country": "IT",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.216799c0-8263-4bc4-b95a-d91f002591c8",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
       ]
     },
     {
@@ -3454,8 +5210,6 @@
       "poster_source": "https://images.justwatch.com/poster/341009028/s592/hells-paradise.jpg",
       "tags": [
         "2023",
-        "Crunchyroll",
-        "Netflix",
         "act",
         "ani",
         "drm",
@@ -3463,6 +5217,72 @@
         "japonais",
         "scf",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81574246",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.c2d679e6-04de-4a96-8ee2-032f90de00a5",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/series/GJ0H7Q5ZJ/hells-paradise",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3510,11 +5330,27 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
       "tags": [
         "2026",
-        "Prime Video",
         "action",
         "drama",
         "japonais",
         "sci-fi"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e510f6c5-42e5-4147-8e4a-2f84ef675e1c",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3566,9 +5402,11 @@
         "act",
         "fml",
         "fnt",
-        "hors plateformes",
         "scf"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "dorohedoro-2020",
@@ -3619,8 +5457,6 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105228-I4xr84QS9Pvk.jpg",
       "tags": [
         "2020",
-        "Crunchyroll",
-        "Netflix",
         "action",
         "adventure",
         "comedy",
@@ -3628,6 +5464,75 @@
         "horror",
         "japonais",
         "mystery"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80991903",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "IT",
+            "JP"
+          ],
+          "vpn_country": "IT",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b4286bc-67ac-4752-96a5-cc6759877188",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00375235JAJP",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3673,12 +5578,61 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
       "tags": [
         "2026",
-        "Netflix",
         "action",
         "adventure",
         "comedy",
         "japonais",
         "supernatural"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/82647303",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.32ccb20b-44e2-4caa-87c0-d27dad1ea40f",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "IN"
+          ],
+          "vpn_country": "IN",
+          "url": "https://www.crunchyroll.com/watch/GE00369234THTH",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3724,10 +5678,42 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177679-BgsgE0fQk3qN.jpg",
       "tags": [
         "2026",
-        "Prime Video",
         "japonais",
         "sci-fi",
         "thriller"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6936fbf-0aee-4c15-b594-9d8ec473a3b4",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3770,9 +5756,11 @@
         "2023",
         "act",
         "drm",
-        "hors plateformes",
         "scf"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "nature-predatrice-2026",
@@ -3809,9 +5797,41 @@
       "poster_source": "https://images.justwatch.com/poster/344254052/s592/beneath-the-storm.jpg",
       "tags": [
         "2026",
-        "Netflix",
         "hrr",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/82650122",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3862,13 +5882,38 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
-        "Netflix",
         "action",
         "adventure",
         "japonais",
         "mystery",
         "supernatural"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81574246",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/series/GJ0H7Q5ZJ/hells-paradise",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3919,12 +5964,37 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
       "tags": [
         "2026",
-        "Crunchyroll",
-        "Netflix",
         "adventure",
         "drama",
         "fantasy",
         "japonais"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81726714",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00324920PLPL",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll",
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -3962,10 +6032,42 @@
       "poster_source": "https://images.justwatch.com/poster/301799146/s592/1899.jpg",
       "tags": [
         "2022",
-        "Netflix",
         "drm",
         "scf",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80214497",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -4003,12 +6105,43 @@
       "poster_source": "https://images.justwatch.com/poster/294001009/s592/matilda-2022.jpg",
       "tags": [
         "2022",
-        "Netflix",
         "cmy",
         "drm",
         "fml",
         "fnt",
         "msc"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80993016",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -4052,9 +6185,11 @@
         "act",
         "cmy",
         "crm",
-        "hors plateformes",
         "trl"
-      ]
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": []
     },
     {
       "id": "forgotten-2017",
@@ -4091,10 +6226,42 @@
       "poster_source": "https://images.justwatch.com/poster/129990552/s592/forgotten-2017.jpg",
       "tags": [
         "2017",
-        "Netflix",
         "crm",
         "scf",
         "trl"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80223050",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     },
     {
@@ -4140,12 +6307,53 @@
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126403-BfVSRzWUtVFW.png",
       "tags": [
         "2021",
-        "Crunchyroll",
         "chinois",
         "drama",
         "mystery",
         "supernatural",
         "thriller"
+      ],
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.f69d6def-3acb-45b1-910d-62fa81a6911a",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GX9U3M7W7",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
       ]
     }
   ]
