@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,1221 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "petals-of-reincarnation-2026",
+      "title": "Petals of Reincarnation",
+      "category": "anime",
+      "year": 2026,
+      "genre": "Action, Supernatural",
+      "runtime": "13 eps · 24 min",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1163295979357886",
+        "page": "Anime SPM"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1163295979357886"
+      ],
+      "identified_from": "Légende « Il vole les dons de tout le monde en secret » + commentaire ; synopsis vérifié (Touya Senji, sans talent dans l’ombre de son frère Seiya, vole les talents des autres avec sa « main droite du voleur »)",
+      "anilist": {
+        "score": 6.0,
+        "url": "https://anilist.co/anime/179950"
+      },
+      "mal": {
+        "score": 6.06,
+        "url": "https://myanimelist.net/anime/59443"
+      },
+      "imdb": {
+        "score": 5.5,
+        "url": "https://www.imdb.com/title/tt38363695/"
+      },
+      "title_romaji": "Reincarnation no Kaben",
+      "title_jp": "リィンカーネーションの花弁",
+      "notes": "Diffusé avr.–juin 2026. Pas sur Netflix / Prime Video / Crunchyroll en France (JustWatch FR, 25/10/2026) : Netflix Japon, Prime Video Italie/Japon.",
+      "poster": "/media/posters/petals-of-reincarnation-2026.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/82795185",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "IT",
+            "JP"
+          ],
+          "vpn_country": "IT",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b89b927e-502e-4990-97b3-5a0a40e4a24b",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix",
+        "amazon_prime"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2026",
+        "action",
+        "japonais",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "dreamland-2026",
+      "title": "Dreamland",
+      "category": "anime",
+      "year": 2026,
+      "genre": "Animation, Fantasy, Action (animation française, adaptation du manfra de Reno Lemaire)",
+      "runtime": "1 saison · ~23 min",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/GE00392398JAJP"
+        },
+        {
+          "id": "adn",
+          "name": "ADN",
+          "url": "https://animationdigitalnetwork.com/video/887-dreamland/32720-episode-1"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1659590352362582",
+        "page": "animeofr"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1659590352362582"
+      ],
+      "identified_from": "Hashtag #dreamland + voix off (« la nouvelle pépite française, Dreamland » : garçon terrifié par le feu, plongé dans le monde de Dreamland)",
+      "imdb": {
+        "score": 8.9,
+        "url": "https://www.imdb.com/title/tt49410334/",
+        "note": "17 votes"
+      },
+      "title_fr": "Dreamland",
+      "notes": "Série animée française 2026 (adaptation du manfra Dreamland de Reno Lemaire). France : Crunchyroll, aussi sur ADN.",
+      "poster": "/media/posters/dreamland-2026.jpg",
+      "poster_source": "https://images.justwatch.com/poster/356134914/s592/dreamland-2026.jpg",
+      "platforms": {
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00392398JAJP",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2026",
+        "action",
+        "animation",
+        "fantasy",
+        "japonais"
+      ]
+    },
+    {
+      "id": "cyberpunk-edgerunners-2022",
+      "title": "Cyberpunk: Edgerunners",
+      "category": "anime",
+      "year": 2022,
+      "genre": "Action, Drama, Sci-Fi",
+      "runtime": "2 saisons · 10 + 10 eps · ~25 min (S2 = Cyberpunk: Edgerunners 2, 2026)",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "netflix",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/81054853"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1659590352362582",
+        "page": "animeofr"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1659590352362582"
+      ],
+      "identified_from": "Hashtag #cyberpunkedgerunners + voix off (« Cyberpunk, la nouvelle pépite du studio Trigger »)",
+      "anilist": {
+        "score": 8.5,
+        "url": "https://anilist.co/anime/120377"
+      },
+      "mal": {
+        "score": 8.63,
+        "url": "https://myanimelist.net/anime/42310",
+        "note": "Edgerunners 2 : 8.27"
+      },
+      "imdb": {
+        "score": 8.3,
+        "url": "https://www.imdb.com/title/tt12590266/",
+        "note": "~87k votes"
+      },
+      "rt": {
+        "score": 90,
+        "url": "https://www.rottentomatoes.com/tv/cyberpunk_edgerunners"
+      },
+      "notes": "Studio Trigger. Le reel parle de la « nouvelle pépite » : probablement Cyberpunk: Edgerunners 2 (2026, 10 épisodes autonomes), même fiche Netflix.",
+      "poster": "/media/posters/cyberpunk-edgerunners-2022.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81054853",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2022",
+        "action",
+        "drama",
+        "japonais",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": "firefly-wedding-2026",
+      "title": "Les Noces des Lucioles (Firefly Wedding)",
+      "category": "anime",
+      "year": 2026,
+      "genre": "Drama, Romance",
+      "runtime": "12 eps · 23 min (en cours)",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/GE00384155ENUS"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1659590352362582",
+        "page": "animeofr"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1659590352362582"
+      ],
+      "identified_from": "Hashtag #lesnocesdeslucioles + voix off (fille noble malade qui veut éviter un mariage, mariée à un assassin) — pas Le Tombeau des lucioles",
+      "anilist": {
+        "score": 7.5,
+        "url": "https://anilist.co/anime/205909"
+      },
+      "mal": {
+        "score": 7.79,
+        "url": "https://myanimelist.net/anime/63293"
+      },
+      "imdb": {
+        "score": 7.7,
+        "url": "https://www.imdb.com/title/tt39394153/"
+      },
+      "title_romaji": "Hotaru no Yomeiri",
+      "title_jp": "蛍の嫁入り",
+      "title_fr": "Les Noces des Lucioles",
+      "poster": "/media/posters/firefly-wedding-2026.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/83136358",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.1bacbd2f-4606-47e8-a8bf-99c1ebf7e24e",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00384155ENUS",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix",
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2026",
+        "drama",
+        "en cours",
+        "japonais",
+        "romance"
+      ]
+    },
+    {
+      "id": "black-clover-2017",
+      "title": "Black Clover",
+      "category": "anime",
+      "year": 2017,
+      "genre": "Action, Comedy, Fantasy",
+      "runtime": "170 eps · 24 min (+ film 2023 ; saison 2 annoncée 2026)",
+      "filler_pct": 11,
+      "filler_note": "AnimeFillerList : 18 épisodes filler sur 170 (29, 66, 68, 82, 123-125, 131, 134-135, 142-149) ≈ 11 % ; + 7 mixtes.",
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "netflix",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/80238012"
+        },
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/GE00004788ITIT"
+        },
+        {
+          "id": "adn",
+          "name": "ADN",
+          "url": "https://animationdigitalnetwork.com/video/449-black-clover/26698-episode-1"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=2186696698723173",
+        "page": "Tnl Shun"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=2186696698723173"
+      ],
+      "identified_from": "Hashtag #blackclover (« Nacht surpassed his limits »)",
+      "anilist": {
+        "score": 7.9,
+        "url": "https://anilist.co/anime/97940"
+      },
+      "mal": {
+        "score": 8.14,
+        "url": "https://myanimelist.net/anime/34572"
+      },
+      "imdb": {
+        "score": 8.2,
+        "url": "https://www.imdb.com/title/tt7441658/",
+        "note": "~57k votes"
+      },
+      "notes": "En France : Netflix et Crunchyroll (aussi ADN, Disney+).",
+      "poster": "/media/posters/black-clover-2017.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80238012",
+          "watchlist": "à ajouter"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.428f035b-ced6-4de3-865e-3ee58e4ce6ef",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/GE00004788ITIT",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix",
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2017",
+        "action",
+        "comedy",
+        "fantasy",
+        "japonais"
+      ]
+    },
+    {
+      "id": "death-parade-2015",
+      "title": "Death Parade",
+      "category": "anime",
+      "year": 2015,
+      "genre": "Drama, Mystery, Psychological, Supernatural",
+      "runtime": "12 eps · 23 min",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "adn",
+          "name": "ADN (France, ép. 1 gratuit avec pub)",
+          "url": "https://animationdigitalnetwork.com/video/347-death-parade/5975-episode-1"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1082988207935266",
+        "page": "Tnl Shun"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1082988207935266"
+      ],
+      "identified_from": "Reel « 3 anime you can finish in one night » (titres affichés)",
+      "anilist": {
+        "score": 8.0,
+        "url": "https://anilist.co/anime/20931"
+      },
+      "mal": {
+        "score": 8.13,
+        "url": "https://myanimelist.net/anime/28223"
+      },
+      "imdb": {
+        "score": 7.8,
+        "url": "https://www.imdb.com/title/tt4279012/",
+        "note": "~26k votes"
+      },
+      "title_jp": "デス・パレード",
+      "notes": "En France : uniquement sur ADN (hors des 3 plateformes). Crunchyroll : Corée du Sud / Turquie ; Prime Video : Japon.",
+      "poster": "/media/posters/death-parade-2015.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.67976167-eae5-475e-bec5-2cfc94f65461",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "KR",
+            "TR"
+          ],
+          "vpn_country": "KR",
+          "url": "https://www.crunchyroll.com/watch/G6E57JENY/death-seven-darts",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2015",
+        "drama",
+        "japonais",
+        "mystery",
+        "psychological",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "grimgar-of-fantasy-and-ash-2016",
+      "title": "Grimgar of Fantasy and Ash",
+      "category": "anime",
+      "year": 2016,
+      "genre": "Action, Adventure, Drama, Fantasy",
+      "runtime": "12 eps · 24 min (+ OVA 2.5)",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1082988207935266",
+        "page": "Tnl Shun"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1082988207935266"
+      ],
+      "identified_from": "Reel « 3 anime you can finish in one night » (titres affichés)",
+      "anilist": {
+        "score": 7.4,
+        "url": "https://anilist.co/anime/21428"
+      },
+      "mal": {
+        "score": 7.66,
+        "url": "https://myanimelist.net/anime/31859"
+      },
+      "imdb": {
+        "score": 7.3,
+        "url": "https://www.imdb.com/title/tt5341430/"
+      },
+      "title_romaji": "Hai to Gensou no Grimgar",
+      "title_fr": "Grimgar, le Monde des Cendres et de Fantaisie",
+      "notes": "Pas en streaming en France (JustWatch FR). Crunchyroll : Suisse, Allemagne… ; Prime Video : Japon.",
+      "poster": "/media/posters/grimgar-of-fantasy-and-ash-2016.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21428-dFVIHeZ8McBe.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.6e90fb8a-2b94-4186-9f1c-3a3fa5dadac6",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "CH",
+            "DE",
+            "KR",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": "CH",
+          "url": "https://www.crunchyroll.com/watch/G6P8170J6/whisper-chant-prayer-awaken",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2016",
+        "action",
+        "adventure",
+        "drama",
+        "fantasy",
+        "japonais"
+      ]
+    },
+    {
+      "id": "towanoquon-eternal-quon-2011",
+      "title": "Towa no Quon (Eternal Quon)",
+      "category": "anime",
+      "year": 2011,
+      "genre": "Action, Sci-Fi, Supernatural",
+      "runtime": "6 films · ~45–48 min chacun",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [
+        {
+          "name": "Sentai Filmworks — Blu-ray intégrale 6 films (achat, 38,99 $, zone A)",
+          "url": "https://www.sentaifilmworks.com/products/816726021874-towanoquon-complete-collection-blu-ray"
+        }
+      ],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=2041539779828985",
+        "page": "Tnl Shun"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=2041539779828985"
+      ],
+      "identified_from": "Reel « 3 anime that nobody appreciates » (titre affiché « Eternal Quon »)",
+      "anilist": {
+        "score": 7.2,
+        "url": "https://anilist.co/anime/10717"
+      },
+      "mal": {
+        "score": 7.55,
+        "url": "https://myanimelist.net/anime/10717",
+        "note": "film 6 ; films 1-5 ≈ 6.9–7.2"
+      },
+      "imdb": {
+        "score": 6.8,
+        "url": "https://www.imdb.com/title/tt3565164/",
+        "note": "film 6"
+      },
+      "title_romaji": "Towa no Quon",
+      "title_jp": "トワノクオン",
+      "notes": "Sur aucune des 3 plateformes, dans aucun pays (JustWatch). Pas de streaming légal actif trouvé (Bandai Channel JP en maintenance le 25/10/2026) ; seule option légale vérifiée : Blu-ray Sentai (zone A, lecteur compatible requis).",
+      "poster": "/media/posters/towanoquon-eternal-quon-2011.jpg",
+      "poster_source": "https://images.justwatch.com/poster/31142449/s592/towa-no-quon-6-eternal-quon.jpg",
+      "platforms": {},
+      "ptags": [],
+      "vtags": [],
+      "tags": [
+        "2011",
+        "action",
+        "japonais",
+        "sci-fi",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "blast-of-tempest-2012",
+      "title": "Blast of Tempest",
+      "category": "anime",
+      "year": 2012,
+      "genre": "Action, Drama, Fantasy, Mystery",
+      "runtime": "24 eps · 24 min",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=2041539779828985",
+        "page": "Tnl Shun"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=2041539779828985"
+      ],
+      "identified_from": "Reel « 3 anime that nobody appreciates » (titre affiché)",
+      "anilist": {
+        "score": 7.6,
+        "url": "https://anilist.co/anime/14075"
+      },
+      "mal": {
+        "score": 7.88,
+        "url": "https://myanimelist.net/anime/14075"
+      },
+      "imdb": {
+        "score": 7.4,
+        "url": "https://www.imdb.com/title/tt2294048/"
+      },
+      "title_romaji": "Zetsuen no Tempest",
+      "title_jp": "絶園のテンペスト",
+      "notes": "Pas en streaming en France. Crunchyroll : Corée du Sud ; Prime Video : Japon.",
+      "poster": "/media/posters/blast-of-tempest-2012.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14075-EIJcGXq5hd9O.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.6f3ad8ba-b427-41bd-847a-100ffb0af102",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "KR"
+          ],
+          "vpn_country": "KR",
+          "url": "https://www.crunchyroll.com/watch/GYNQJVP2Y/the-mage-in-the-barrel",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2012",
+        "action",
+        "drama",
+        "fantasy",
+        "japonais",
+        "mystery"
+      ]
+    },
+    {
+      "id": "the-haunting-of-hill-house-2018",
+      "title": "The Haunting of Hill House",
+      "category": "tv",
+      "year": 2018,
+      "genre": "Drama, Horror, Mystery",
+      "runtime": "1 saison · 10 eps · ~58 min",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "netflix",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/80189221"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1611257670744976",
+        "page": "Netflix"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1611257670744976"
+      ],
+      "identified_from": "Reel officiel Netflix (« 8 years later… The Haunting Of Hill House »)",
+      "imdb": {
+        "score": 8.5,
+        "url": "https://www.imdb.com/title/tt6763664/",
+        "note": "~340k votes"
+      },
+      "rt": {
+        "score": 93,
+        "url": "https://www.rottentomatoes.com/tv/the_haunting_of_hill_house"
+      },
+      "title_fr": "The Haunting of Hill House",
+      "notes": "Série de Mike Flanagan (Netflix original).",
+      "poster": "/media/posters/the-haunting-of-hill-house-2018.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246083.jpg",
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "JP",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/80189221",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2018",
+        "drama",
+        "horror",
+        "mystery"
+      ]
+    },
+    {
+      "id": "the-empire-of-corpses-2015",
+      "title": "The Empire of Corpses",
+      "category": "anime",
+      "year": 2015,
+      "genre": "Action, Adventure, Sci-Fi, Steampunk",
+      "runtime": "Film · 120 min",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1645114487292075",
+        "page": "aniwatchhq"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1645114487292075"
+      ],
+      "identified_from": "Légende « 100 ANIME MOVIES Day 45/100 EMPIRE OF CORPSES »",
+      "anilist": {
+        "score": 6.5,
+        "url": "https://anilist.co/anime/20965"
+      },
+      "mal": {
+        "score": 6.83,
+        "url": "https://myanimelist.net/anime/28625"
+      },
+      "imdb": {
+        "score": 6.0,
+        "url": "https://www.imdb.com/title/tt4235644/"
+      },
+      "title_romaji": "Shisha no Teikoku",
+      "title_jp": "屍者の帝国",
+      "notes": "Film Wit Studio (Project Itoh). Pas en streaming en France ; Crunchyroll : Suisse, Allemagne, Italie, Turquie.",
+      "poster": "/media/posters/the-empire-of-corpses-2015.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20965-tf6Qs6viTyyg.png",
+      "platforms": {
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "CH",
+            "DE",
+            "IT",
+            "TR"
+          ],
+          "vpn_country": "CH",
+          "url": "https://www.crunchyroll.com/watch/G0DUN3D8G/the-empire-of-corpses",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "crunchyroll"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2015",
+        "action",
+        "adventure",
+        "japonais",
+        "sci-fi",
+        "steampunk"
+      ]
+    },
+    {
+      "id": "high-card-2023",
+      "title": "High Card",
+      "category": "anime",
+      "year": 2023,
+      "genre": "Action, Mystery, Supernatural",
+      "runtime": "2 saisons · 24 eps · 23 min",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "prime",
+          "name": "Prime Video",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c05922e-a6e7-42b0-af88-82279f5025c0"
+        },
+        {
+          "id": "adn",
+          "name": "ADN",
+          "url": "https://animationdigitalnetwork.com/video/1012-high-card/22197-episode-1"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1657334809735803",
+        "page": "Vonathon"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1657334809735803"
+      ],
+      "identified_from": "Reel « Fire animes I know for a fact you’ve never heard of » (titre affiché)",
+      "anilist": {
+        "score": 7.1,
+        "url": "https://anilist.co/anime/135778"
+      },
+      "mal": {
+        "score": 7.16,
+        "url": "https://myanimelist.net/anime/49154",
+        "note": "S2 : ~7.1"
+      },
+      "imdb": {
+        "score": 6.7,
+        "url": "https://www.imdb.com/title/tt25275610/"
+      },
+      "notes": "En France : Prime Video (et ADN). Crunchyroll hors France (Belgique, Suisse…).",
+      "poster": "/media/posters/high-card-2023.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135778-Qldd93789wTL.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH"
+          ],
+          "vpn_country": null,
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c05922e-a6e7-42b0-af88-82279f5025c0",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": "BE",
+          "url": "https://www.crunchyroll.com/watch/GMKUXVDK1",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2023",
+        "action",
+        "japonais",
+        "mystery",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "summer-time-rendering-2022",
+      "title": "Summer Time Rendering",
+      "category": "anime",
+      "year": 2022,
+      "genre": "Mystery, Supernatural, Thriller",
+      "runtime": "25 eps · 24 min",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "disney-plus",
+          "name": "Disney+ (France)",
+          "url": "https://www.disneyplus.com/browse/entity-ad803e91-b02a-42c9-a6f8-29f6468a74fd"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1657334809735803",
+        "page": "Vonathon"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1657334809735803"
+      ],
+      "identified_from": "Reel « Fire animes I know for a fact you’ve never heard of » (titre affiché)",
+      "anilist": {
+        "score": 8.3,
+        "url": "https://anilist.co/anime/129201"
+      },
+      "mal": {
+        "score": 8.46,
+        "url": "https://myanimelist.net/anime/47194"
+      },
+      "imdb": {
+        "score": 8.2,
+        "url": "https://www.imdb.com/title/tt15686254/"
+      },
+      "title_romaji": "Summer Time Render",
+      "title_jp": "サマータイムレンダ",
+      "notes": "En France : Disney+ uniquement. Netflix : Japon.",
+      "poster": "/media/posters/summer-time-rendering-2022.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129201-HJBauga2be8I.png",
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://www.netflix.com/title/81639722",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "vpn"
+      ],
+      "tags": [
+        "2022",
+        "japonais",
+        "mystery",
+        "supernatural",
+        "thriller"
+      ]
+    },
+    {
+      "id": "katsugeki-touken-ranbu-2017",
+      "title": "Katsugeki Touken Ranbu",
+      "category": "anime",
+      "year": 2017,
+      "genre": "Action, Historical, Fantasy",
+      "runtime": "13 eps · 23 min",
+      "filler_pct": 0,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/G69P2P3WY"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1657334809735803",
+        "page": "Vonathon"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1657334809735803"
+      ],
+      "identified_from": "Reel « Fire animes I know for a fact you’ve never heard of » (titre affiché « Touken Ranbu » ; scènes d’action ufotable → Katsugeki, choix le plus probable)",
+      "anilist": {
+        "score": 6.3,
+        "url": "https://anilist.co/anime/21742"
+      },
+      "mal": {
+        "score": 6.74,
+        "url": "https://myanimelist.net/anime/33018"
+      },
+      "imdb": {
+        "score": 6.2,
+        "url": "https://www.imdb.com/title/tt8503628/"
+      },
+      "title_jp": "活撃 刀剣乱舞",
+      "notes": "Identification probable : le reel dit seulement « Touken Ranbu ». Alternative : Touken Ranbu Kai – Kyoden Moyuru Honnouji (2024), aussi sur Crunchyroll FR (https://www.crunchyroll.com/watch/GG1U2JV0W).",
+      "poster": "/media/posters/katsugeki-touken-ranbu-2017.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21742-T7UH2A8EKRv4.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "DE",
+            "JP"
+          ],
+          "vpn_country": "DE",
+          "url": "https://watch.amazon.de/detail?gti=amzn1.dv.gti.8cba45ff-ada1-d0eb-5f77-1fd1c06478d1",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/watch/G69P2P3WY",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2017",
+        "action",
+        "fantasy",
+        "historical",
+        "japonais"
+      ]
+    },
+    {
+      "id": "sous-ecrous-2019",
+      "title": "Sous Écrous (web-série) — « Au revoir Johny »",
+      "category": "comedy",
+      "year": 2019,
+      "genre": "Comédie, sketch carcéral (Marseille)",
+      "runtime": "Web-série YouTube · 3 saisons · ~25 eps · ~5 min ; film 2024 · 111 min",
+      "filler_pct": null,
+      "added": "2026-10-25",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "netflix",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/81767816"
+        }
+      ],
+      "full_links": [
+        {
+          "name": "YouTube officiel — Sous Écrous #18 « Au revoir Johny »",
+          "url": "https://www.youtube.com/watch?v=CFEMfpt_tCA"
+        },
+        {
+          "name": "YouTube officiel — chaîne Sous Écrous (tous les épisodes)",
+          "url": "https://www.youtube.com/channel/UCfIrO2COL9D6hyvgfhqIzqw"
+        }
+      ],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1394770108750473",
+        "page": "Par ici par la"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=1394770108750473"
+      ],
+      "identified_from": "Reel « Johnny qui quitte la cellule » (filigrane misterclip_fr = repost) : dialogue identique à l’épisode #18 « Au revoir Johny » de la web-série Sous Écrous (Ichem Boogy / Ichem Bougheraba, Arriles Amrani)",
+      "imdb": {
+        "score": 4.8,
+        "url": "https://www.imdb.com/title/tt33396612/",
+        "note": "film 2024"
+      },
+      "notes": "Le clip vient de la web-série gratuite (YouTube officiel). Le film Sous écrous (2024, Hakim Bougheraba, adaptation avec les mêmes acteurs) est sur Netflix France.",
+      "poster": "/media/posters/sous-ecrous-2019.jpg",
+      "poster_source": "https://images.justwatch.com/poster/325335915/s592/sous-ecrous.jpg",
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/title/81767816",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2019",
+        "comédie",
+        "sketch carcéral"
+      ]
+    },
     {
       "id": "solo-leveling",
       "title": "Solo Leveling",
@@ -383,7 +1598,7 @@
         "url": "https://anilist.co/anime/120193/Yingxiong-Zailin",
         "note": "Average/mean 67%"
       },
-      "notes": "AKA The Hero's Return / Yingxiong? Wo Zao Jiu Bu Dang Le. Finished ONA Oct 18–Dec 27 2020.",
+      "notes": "AKA The Hero's Return / Yingxiong? Wo Zao Jiu Bu Dang Le. Finished ONA Oct 18–Dec 27 2020. Revu le 25/10/2026 dans le reel « 3 anime that nobody appreciates » (Tnl Shun, titre affiché « The Hero Return ») — rapprochement probable, non vérifié image par image.",
       "studio": "Big Firebird Culture",
       "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120193-KAMiBZ4Nw3xA.png",
       "tags": [
@@ -396,7 +1611,11 @@
       ],
       "platforms": {},
       "ptags": [],
-      "vtags": []
+      "vtags": [],
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=2185656379036067",
+        "https://www.facebook.com/watch/?ref=saved&v=2041539779828985"
+      ]
     },
     {
       "id": "frontier-lord-begins-with-zero-subjects",
@@ -4568,7 +5787,8 @@
         "page": "‎عالم الأنمي من تونس‎"
       },
       "facebook_clips": [
-        "https://www.facebook.com/watch/?ref=saved&v=1012348334821729"
+        "https://www.facebook.com/watch/?ref=saved&v=1012348334821729",
+        "https://www.facebook.com/watch/?ref=saved&v=1082988207935266"
       ],
       "identified_from": "Koutetsujou no Kabaneri",
       "backlog": true,

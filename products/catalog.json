@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-25",
   "dedicated_for": [
     "safa",
     "eya",
@@ -16,6 +16,50 @@
     "autre"
   ],
   "items": [
+    {
+      "id": "luggical-trolley-valise-chariot-2026-10-25",
+      "date": "2026-10-25",
+      "title": "Luggical « The Trolley » — valise rigide avec chariot à bagages intégré (pub Luggical)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Valise rigide 95 L (73 × 44 × 30 cm) avec un chariot d’aéroport intégré dans la coque : on le déplie en 4 s, on y empile jusqu’à 60 kg d’autres bagages (85 kg au total d’une main), puis il se replie à plat. « Why hunt airport trolleys when you’ve got one in your suitcase ».",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1137191052122857",
+      "review_verdict": "Produit réel, pas une arnaque pure : campagne Kickstarter « Project We Love » (oct.–nov. 2024, 188 763 $ par 685 contributeurs), marque basée à Miami, domaine luggical.com déposé en 2020. Mais à éviter pour l’instant depuis la France : livraison uniquement États-Unis et Canada, vente en précommande (« Sold out. Still available to order », livraison « décembre ») avec des infos contradictoires (« expédié sous 1–2 jours » vs précommande, lancement « 26 septembre », acompte de 1 $), faux prix barré (479 $ → 299 $), aucun avis indépendant trouvé (Trustpilot inaccessible, pas de retours de contributeurs). La vidéo FB ressemble à une pub générée/retouchée par IA (avis des commentateurs). Pour le même usage, un diable pliable compact à poser sous les sacs suffit.",
+      "best_price": "Original : 299 $ (~255 €) hors frais de douane, non livré en France. Alternative la moins chère : VEVOR diable pliant 2 roues 49,9 kg à 22,90 € sur vevor.fr (★4,6, 32 avis)",
+      "notes": "Reel FB de la page Luggical, sans prix ni lien. Les commentateurs pensent à une pub IA. Sur Amazon.fr il n’existe pas de valise avec chariot intégré ; l’équivalent est un mini diable pliable. Plus solide mais lourd (7,4 kg, pas pour l’avion) : BLACK+DECKER 2-en-1 diable/chariot, 89,99 € sur Amazon.fr (★4,7, 446 avis, https://www.amazon.fr/dp/B0BRSQ1CBV).",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — MagiDeal mini diable pliable 25 kg (24 × 11 × 3,5 cm plié)",
+          "url": "https://www.amazon.fr/dp/B0DR3N81WF",
+          "price": "54,09 €",
+          "rating": "0 avis",
+          "reviews": "Le plus proche pour l’aéroport (tient dans un sac) ; vendeur tiers, fiche récente sans avis — prudence"
+        },
+        {
+          "slot": "france",
+          "name": "VEVOR.fr — diable pliant 2 roues 49,9 kg avec corde élastique",
+          "url": "https://www.vevor.fr/diable-de-manutention-c_12275/vevor-diable-pliant-2-roues-chariot-a-bagages-a-plateforme-demenagement-49-9-kg-p_010849722440",
+          "price": "22,90 €",
+          "rating": "4,6/5 (32)",
+          "reviews": "Compact et léger ; avis : instable sur sol irrégulier, charge réelle sans doute inférieure"
+        },
+        {
+          "slot": "world",
+          "name": "Luggical — The Trolley (site officiel, USA)",
+          "url": "https://luggical.com/products/thetrolley",
+          "price": "299 $ (précommande, livraison USA/Canada uniquement)",
+          "rating": "« 100+ avis » (site du vendeur)",
+          "reviews": "Kickstarter 2024 financé ; aucun avis indépendant ; pas d’envoi vers la France"
+        }
+      ],
+      "tags": [
+        "Amazon.fr",
+        "Luggical",
+        "VEVOR.fr",
+        "autre"
+      ]
+    },
     {
       "id": "epoxy-sol-effet-pierre-yasen-2026-10-21",
       "date": "2026-10-21",
