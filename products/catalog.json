@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "dedicated_for": [
     "safa",
     "eya",
@@ -16,6 +16,50 @@
     "autre"
   ],
   "items": [
+    {
+      "id": "toepals-breloques-orteils-crocs-2026-10-26",
+      "date": "2026-10-26",
+      "title": "« ToePals » breloques orteils pour Crocs (lot de 10, pub Katrina Shepherd)",
+      "category": "mode",
+      "dedicated_for": null,
+      "claimed": "10 faux orteils réalistes à clipser dans les trous des Crocs/sabots : effet « mes Crocs ont des orteils ». Annoncés non toxiques, étanches, « family-friendly ».",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=3674087452766234",
+      "review_verdict": "Produit gadget réel et générique (le même modèle est vendu par plusieurs marques chinoises / imprimeurs 3D). La boutique de la pub, usagoodshub.shop, est une boutique Shopify de dropshipping (prix barré 34,99 $ → 22,99 $, nom « ToePals™ » inventé, page FB d’influenceuse) : à éviter. Avis Amazon sur ce type d’article : drôle et ça tient bien sur des Crocs classiques, mais impression 3D visible, rendu « un peu flippant », et les orteils peuvent pointer vers le haut selon la position des trous.",
+      "best_price": "Moins cher légitime : Amazon.com « 10pcs Funny Toe Charms Compatible with Crocs » 9,88 $ (+4,98 $ de port US, ★4,1, 15 avis) — envoi en France non vérifié. En France : pas de vendeur légitime trouvé ; sur Amazon.fr le lot de 10 TIME&TRAVE est indisponible aujourd’hui. Pub : 22,99 $ (dropship).",
+      "notes": "Reel FB de Katrina Shepherd (983K réactions) avec lien vers usagoodshub.shop. Recherche Amazon.fr directe bloquée (captcha) ; fiches vérifiées une par une. Option fait-main : Etsy, lots de 10 orteils imprimés 3D (~33 €, vendeurs RBCreationsByKyle / ClemmyCreations).",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — TIME&TRAVE breloques d’orteils réalistes imprimées 3D (lot de 10)",
+          "url": "https://www.amazon.fr/dp/B0FSK4QVZ4",
+          "price": "Actuellement indisponible",
+          "rating": "4,6/5 (3)",
+          "reviews": "Avis : drôle, solide, tient bien ; lignes d’impression 3D visibles"
+        },
+        {
+          "slot": "france",
+          "name": "Etsy — Realistic Toes charms pour Crocs (lot de 10, impression 3D artisanale)",
+          "url": "https://www.etsy.com/listing/1538060622/realistic-toes-jibbits-inspired-charms",
+          "price": "~32,86 €",
+          "rating": "vendeur Etsy",
+          "reviews": "Fait sur commande, choix de couleur ; pas de vendeur FR classique (Fnac, Cdiscount…) trouvé"
+        },
+        {
+          "slot": "world",
+          "name": "Amazon.com — 10pcs Funny Toe Charms Compatible with Crocs",
+          "url": "https://www.amazon.com/s?k=10pcs+Funny+Toe+Charms+Compatible+with+Crocs",
+          "price": "9,88 $ + 4,98 $ port (US)",
+          "rating": "4,1/5 (15)",
+          "reviews": "Le moins cher pour 10 orteils ; envoi vers la France à vérifier au panier"
+        }
+      ],
+      "tags": [
+        "Amazon.com",
+        "Amazon.fr",
+        "Etsy",
+        "mode"
+      ]
+    },
     {
       "id": "luggical-trolley-valise-chariot-2026-10-25",
       "date": "2026-10-25",

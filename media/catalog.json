@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,98 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "garo-vanishing-line-2017",
+      "title": "GARO -VANISHING LINE-",
+      "category": "anime",
+      "year": 2017,
+      "genre": "Action, Dark Fantasy, Supernatural, Horror",
+      "runtime": "24 eps · 24 min",
+      "filler_pct": 0,
+      "added": "2026-10-26",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GRVN7ZW3Y/garo--vanishing-line-"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=3101518623386225",
+        "page": "Anime SPM"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=3101518623386225"
+      ],
+      "identified_from": "Reel « Il conclut un pacte avec un démon pour remarcher » (voix off FR + images) : ancien champion olympique paralysé en sauvant sa compagne d’un panneau, pacte avec le Horror Begand, traqué par Sword et Luke → épisode 2 « LUKE » de GARO -VANISHING LINE- (MAPPA, 2017)",
+      "anilist": {
+        "score": 6.7,
+        "url": "https://anilist.co/anime/99796"
+      },
+      "mal": {
+        "score": 7.12,
+        "url": "https://myanimelist.net/anime/36144"
+      },
+      "imdb": {
+        "score": 6.8,
+        "url": "https://www.imdb.com/title/tt7963070/"
+      },
+      "title_jp": "牙狼＜GARO＞-VANISHING LINE-",
+      "episode": "S1 É2 « LUKE »",
+      "notes": "Studio MAPPA, de la franchise Garo (Keita Amemiya). En France : Crunchyroll (aussi via Crunchyroll Amazon Channel sur Prime Video, en option payante). Prime Video inclus : Japon uniquement. Filler : 0 (série originale, pas d’adaptation).",
+      "poster": "/media/posters/garo-vanishing-line-2017.jpg",
+      "poster_source": "https://images.justwatch.com/poster/253938502/s592/vanishing-line.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.3d143fac-0547-4a70-8236-30f3acf5ad67",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "CH",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "NL",
+            "KR",
+            "BR",
+            "MX",
+            "AU",
+            "IN",
+            "TR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/series/GRVN7ZW3Y/garo--vanishing-line-",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2017",
+        "action",
+        "dark fantasy",
+        "horror",
+        "japonais",
+        "supernatural"
+      ]
+    },
     {
       "id": "petals-of-reincarnation-2026",
       "title": "Petals of Reincarnation",
