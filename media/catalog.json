@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,74 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "clayface-2026",
+      "title": "Clayface",
+      "category": "movie",
+      "year": 2026,
+      "genre": "Horreur, Mystère & Thriller, Science-Fiction",
+      "runtime": "1 h 48 (108 min)",
+      "filler_pct": null,
+      "added": "2026-10-23",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [
+        {
+          "name": "Séances mk2",
+          "url": "https://www.mk2.com/film/clayface"
+        },
+        {
+          "name": "Séances Pathé",
+          "url": "https://www.pathe.fr/films/clayface-43763"
+        },
+        {
+          "name": "Séances CGR",
+          "url": "https://www.cgrcinemas.fr/films-a-l-affiche/1000016901-clayface"
+        },
+        {
+          "name": "Le Grand Rex",
+          "url": "https://www.legrandrex.com/cinema/5536"
+        },
+        {
+          "name": "E.Leclerc (achat)",
+          "url": "https://www.awin1.com/pclick.php?p=46406890470&a=400165&m=15135"
+        }
+      ],
+      "facebook": {
+        "share": "https://www.facebook.com/reel/1621012436485223/",
+        "page": "Warner Bros. Pictures"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/reel/1621012436485223/",
+        "https://www.facebook.com/iwbfr/videos/1402607164910749/"
+      ],
+      "identified_from": "Reel Warner Bros. Pictures FR « Il est prêt à tout pour se venger. Clayface, au cinéma le 21 octobre. » → Clayface (DC Studios, 2026)",
+      "backlog": true,
+      "imdb": {
+        "score": 7.6,
+        "url": "https://www.imdb.com/title/tt34890576/",
+        "note": "~20k votes"
+      },
+      "poster": "/media/posters/clayface-2026.jpg",
+      "poster_source": "https://images.justwatch.com/poster/344578529/s592/clayface.jpg",
+      "tags": [
+        "2026",
+        "horreur",
+        "mystère & thriller",
+        "science-fiction"
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": [],
+      "rt": {
+        "score": 76,
+        "url": "https://www.rottentomatoes.com/m/clayface",
+        "note": "172 critiques ; public (Popcornmeter) 94 %"
+      },
+      "director": "James Watkins",
+      "notes": "Film DC Studios réalisé par James Watkins. Au cinéma en France depuis le 21/10/2026, pas encore en streaming : absent de Netflix, Prime Video et Crunchyroll en France et dans les 17 pays vérifiés (JustWatch, 27/10/2026). Déconseillé aux moins de 12 ans. Achat numérique E.Leclerc listé par JustWatch.",
+      "updated": "2026-10-27"
+    },
     {
       "id": "garo-vanishing-line-2017",
       "title": "GARO -VANISHING LINE-",
@@ -4067,48 +4135,6 @@
       "vtags": [
         "no_vpn"
       ]
-    },
-    {
-      "id": "clayface-2026",
-      "title": "Clayface",
-      "category": "movie",
-      "year": 2026,
-      "genre": "hrr, trl, scf",
-      "runtime": "",
-      "filler_pct": null,
-      "added": "2026-10-23",
-      "watchlist_added": [],
-      "watch_fr": [],
-      "full_links": [
-        {
-          "name": "E.Leclerc (location/achat)",
-          "url": "https://www.awin1.com/pclick.php?p=46406890468&a=400165&m=15135"
-        }
-      ],
-      "facebook": {
-        "share": "https://www.facebook.com/reel/1621012436485223/",
-        "page": "Warner Bros. Pictures"
-      },
-      "facebook_clips": [
-        "https://www.facebook.com/reel/1621012436485223/"
-      ],
-      "identified_from": "Clayface",
-      "backlog": true,
-      "imdb": {
-        "score": 7.5,
-        "url": "https://www.imdb.com/title/tt34890576/"
-      },
-      "poster": "/media/posters/clayface-2026.jpg",
-      "poster_source": "https://images.justwatch.com/poster/344578529/s592/clayface.jpg",
-      "tags": [
-        "2026",
-        "hrr",
-        "scf",
-        "trl"
-      ],
-      "platforms": {},
-      "ptags": [],
-      "vtags": []
     },
     {
       "id": "fate-strange-fake-2026",

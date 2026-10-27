@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "dedicated_for": [
     "safa",
     "eya",
@@ -16,6 +16,50 @@
     "autre"
   ],
   "items": [
+    {
+      "id": "respilife-filtres-nasaux-2026-10-27",
+      "date": "2026-10-27",
+      "title": "« RESPILIFE » filtres nasaux anti-poussière (pub RespiLife, chantier)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Filtres à glisser dans les narines pour se protéger de la poussière, du pollen et des particules au travail (chantier) sans masque. Tailles S/M/L/XL, filtre à usage unique « pour la journée ». 14,95 € (prix barré 23,95 €), « 2 pour 1 » et livraison gratuite.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1881918513250485",
+      "review_verdict": "Produit réel mais générique : filtres nasaux chinois (2 coques transparentes reliées par une tige + filtres), revendus sous le nom inventé « RESPILIFE™ ». La boutique tryrespilife.com est un Shopify de dropshipping à éviter : boutique créée le 16/04/2026, vendeur « Mi tienda » (nom par défaut), seul contact = une adresse Gmail, pas de société identifiée, faux compte à rebours, « 4,9/5 + 1097 avis » maison tous datés du 26/04/2026, nombre de filtres par lot non indiqué. Surtout : un filtre nasal n’est pas un équipement de protection respiratoire. Pour la poussière de chantier, il faut un masque FFP2/FFP3 certifié EN 149 (et la bouche reste exposée avec un filtre nasal). Avis Amazon sur les vrais filtres nasaux : utile contre pollen et grosse poussière, mais souvent mal ajusté, peut tomber.",
+      "best_price": "Moins cher légitime : infshop.fr, filtres nasaux invisibles jetables INF (4 tailles) 7,99 € TTC, livraison gratuite (nombre de filtres non précisé). Valeur sûre sur Amazon.fr : WoodyKnows Ultra-Breathable (lot de 6) 23,99 €, ★3,5 (785 avis), expédié par Amazon. Pub : 14,95 € (dropship, à éviter).",
+      "notes": "Reel FB RespiLife (20M de vues, 174K réactions), texte espagnol, lien vers tryrespilife.com/products/respilife. Une copie de la boutique existe aussi (respilife5.mitiendanube.com). Recherche Amazon.fr directe bloquée (403) ; fiches vérifiées une par une. NOSA Allergy filter (Amazon.fr, ★3,1, 146 avis) actuellement indisponible.",
+      "providers": [
+        {
+          "slot": "amazon",
+          "name": "Amazon.fr — WoodyKnows Ultra-Breathable filtres nasaux (rond, lot de 6)",
+          "url": "https://www.amazon.fr/dp/B007VXW156",
+          "price": "23,99 € (au lieu de 26,65 €)",
+          "rating": "3,5/5 (785)",
+          "reviews": "Efficace contre pollen et poussière pour certains ; d’autres : trop grand, ne tient pas, inutile. Chaque filtre dure 2 à 5 jours."
+        },
+        {
+          "slot": "france",
+          "name": "infshop.fr — INF filtres nasaux invisibles jetables (4 tailles)",
+          "url": "https://infshop.fr/ensembles-d-outils-main/106757-inf-filtres-nasaux-invisibles-jetables-dilatateur-nasal-transparent-pour-poussire-pm25-et-protection-contre-les-allergies-7314281546663.html",
+          "price": "7,99 € TTC, livraison gratuite",
+          "rating": "pas d’avis",
+          "reviews": "En stock ; nombre de filtres non précisé sur la fiche"
+        },
+        {
+          "slot": "world",
+          "name": "Amazon.com — WoodyKnows Super-Defense Nasal Filters (6 pack)",
+          "url": "https://www.amazon.com/dp/B06XXGN1WF",
+          "price": "21,99 $",
+          "rating": "3,9/5 (480)",
+          "reviews": "Modèle filtre électrostatique, vendu pour pollution industrielle et chantier ; envoi en France non vérifié"
+        }
+      ],
+      "tags": [
+        "Amazon.com",
+        "Amazon.fr",
+        "autre",
+        "infshop.fr"
+      ]
+    },
     {
       "id": "toepals-breloques-orteils-crocs-2026-10-26",
       "date": "2026-10-26",
