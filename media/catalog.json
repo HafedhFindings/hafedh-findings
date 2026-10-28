@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -2700,15 +2700,20 @@
       "title_jp": "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～",
       "title_romaji": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
       "imdb": {
-        "score": 7.1
+        "score": 7.1,
+        "url": "https://www.imdb.com/title/tt32395862/",
+        "note": "~2,6k votes"
       },
       "mal": {
-        "score": 6.86
+        "score": 6.86,
+        "url": "https://myanimelist.net/anime/57058",
+        "note": "115k votes"
       },
       "watch_fr": [
         {
           "id": "adn",
-          "name": "Animation Digital Network"
+          "name": "Animation Digital Network",
+          "url": "https://animationdigitalnetwork.com/video/1207-i-parry-everything"
         }
       ],
       "facebook": {
@@ -2731,7 +2736,10 @@
           "countries": [
             "JP",
             "KR",
-            "IN"
+            "IN",
+            "PH",
+            "TH",
+            "SG"
           ],
           "vpn_country": "JP",
           "url": "https://www.netflix.com/title/81910115",
@@ -2743,7 +2751,29 @@
       ],
       "vtags": [
         "vpn"
-      ]
+      ],
+      "anilist": {
+        "score": 6.8,
+        "url": "https://anilist.co/anime/170695"
+      },
+      "full_links": [
+        {
+          "name": "ADN — Épisode 3 « Je repousse la disciple » (VF/VOSTFR)",
+          "url": "https://animationdigitalnetwork.com/video/1207-i-parry-everything/26156-episode-3"
+        },
+        {
+          "name": "ADN Amazon Channel (Prime Video, option payante)",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f948442e-b15c-4aaf-84ea-ef30bf95c681"
+        }
+      ],
+      "facebook_clips": [
+        "https://www.facebook.com/share/v/1CQvBPh8vG/",
+        "https://www.facebook.com/watch/?ref=saved&v=1167535656230150"
+      ],
+      "episode": "S1 É3 « Je repousse la disciple » (duel d’entraînement contre Gilbert, le lancier)",
+      "identified_from": "Reel Anime SPM « Il a humilié le champion sans s’en rendre compte » (voix off FR) : Noor, cicatrice à la joue et grande épée noire, combat d’entraînement contre un lancier roux, nettoyage des égouts, princesse Lynne → épisode 3 de I Parry Everything (2024)",
+      "notes": "En France : ADN (abonnement, VF et VOSTFR), aussi via ADN Amazon Channel sur Prime Video (option payante) ou achat Prime Video. Pas sur Netflix, Prime Video inclus ni Crunchyroll en France. Netflix : Japon, Corée du Sud, Inde, Philippines, Thaïlande, Singapour (VPN Japon). Absent de Crunchyroll partout (JustWatch, 28/10/2026). Pas de note Rotten Tomatoes. Filler : 0 (adaptation de light novel, 12 épisodes).",
+      "updated": "2026-10-28"
     },
     {
       "id": "berserk-of-gluttony",
