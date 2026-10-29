@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,164 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "the-vermilion-mask-2026",
+      "title": "The Vermilion Mask",
+      "category": "anime",
+      "year": 2026,
+      "genre": "Action, Fantasy, Drama, Supernatural (seinen)",
+      "runtime": "12 eps (1re partie, en cours) · 24 min",
+      "filler_pct": null,
+      "added": "2026-10-29",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/fr/series/GT00384015/the-vermilion-mask"
+        }
+      ],
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?v=1765721107872555",
+        "page": "LegionzGaming"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?v=1765721107872555"
+      ],
+      "identified_from": "Reel réaction LegionzGaming « THE MASK OF THE WAR GOD IS TERRIFYING! » (#anime #romanceanime) → épisode 2 « Mask of the War God » (Le masque du dieu guerrier, 17/10/2026) de The Vermilion Mask / Shuiro no Kamen (100studio, 2026)",
+      "anilist": {
+        "score": 6.8,
+        "url": "https://anilist.co/anime/195571"
+      },
+      "mal": {
+        "score": 7.0,
+        "url": "https://myanimelist.net/anime/61999"
+      },
+      "imdb": {
+        "score": null,
+        "url": "https://www.imdb.com/title/tt41153966/",
+        "note": "pas encore de note IMDb (29/10/2026)"
+      },
+      "title_jp": "朱色の仮面 (Shuiro no Kamen)",
+      "episode": "S1 É2 « Mask of the War God »",
+      "notes": "Adaptation du manga de Dr.Poro et Nabana Naba (Young King Ours), réalisée par Tetsuaki Watanabe (BLUE LOCK) au studio 100studio. Diffusion depuis le 10/10/2026, 1 épisode par semaine (ép. 4 le 31/10, 12 épisodes jusqu’au 26/12, puis 2e cour). En France : Crunchyroll en simulcast VOSTFR (aussi via Crunchyroll Amazon Channel sur Prime Video, en option payante). Prime Video inclus : Japon uniquement. Absent de Netflix dans les 17 pays vérifiés (JustWatch, 29/10/2026). MAL 7,00 (2 210 votants) ; AniList 68 %. Filler : non documenté (série en cours). Classé 14+ (violence).",
+      "poster": "/media/posters/the-vermilion-mask-2026.jpg",
+      "poster_source": "https://images.justwatch.com/poster/355227680/s592/the-vermilion-mask.jpg",
+      "platforms": {
+        "amazon_prime": {
+          "fr": false,
+          "countries": [
+            "JP"
+          ],
+          "vpn_country": "JP",
+          "url": "https://watch.amazon.co.jp/detail?gti=amzn1.dv.gti.7691387a-fd54-4073-8a43-3c702be532ea",
+          "watchlist": "à ajouter"
+        },
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "BE",
+            "GB",
+            "US",
+            "CA",
+            "DE",
+            "ES",
+            "IT",
+            "NL",
+            "BR",
+            "MX",
+            "AU",
+            "IN"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/fr/series/GT00384015/the-vermilion-mask",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
+        "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ],
+      "tags": [
+        "2026",
+        "action",
+        "drama",
+        "fantasy",
+        "japonais",
+        "seinen",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "hope-2026",
+      "title": "Hope",
+      "category": "movie",
+      "year": 2026,
+      "genre": "Action, Science-Fiction, Thriller, Horreur",
+      "runtime": "2 h 37 (157 min)",
+      "filler_pct": null,
+      "added": "2026-10-29",
+      "watchlist_added": [],
+      "watch_fr": [],
+      "full_links": [
+        {
+          "name": "Séances AlloCiné",
+          "url": "https://www.allocine.fr/seance/film-314882/"
+        },
+        {
+          "name": "Séances Pathé",
+          "url": "https://www.pathe.fr/films/hope-54604"
+        },
+        {
+          "name": "Séances mk2",
+          "url": "https://www.mk2.com/film/hope"
+        },
+        {
+          "name": "Séances CGR",
+          "url": "https://www.cgrcinemas.fr/films-a-l-affiche/314882-hope"
+        }
+      ],
+      "facebook": {
+        "share": "https://www.facebook.com/reel/1810028816904523/",
+        "page": "Universal Pictures"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/reel/1810028816904523/"
+      ],
+      "identified_from": "Reel Universal Pictures « HOPE, Actuellement au cinéma » → Hope (호프 / Hopeu) de Na Hong-jin, distribué en France par Universal Pictures International France, sorti le 28/10/2026",
+      "backlog": true,
+      "imdb": {
+        "score": 6.6,
+        "url": "https://www.imdb.com/title/tt27369017/",
+        "note": "~26k votes ; Metascore 67"
+      },
+      "poster": "/media/posters/hope-2026.jpg",
+      "poster_source": "https://images.justwatch.com/poster/354637634/s592/hope-2026.jpg",
+      "tags": [
+        "2026",
+        "action",
+        "coréen",
+        "horreur",
+        "science-fiction",
+        "thriller"
+      ],
+      "platforms": {},
+      "ptags": [],
+      "vtags": [],
+      "rt": {
+        "score": 80,
+        "url": "https://www.rottentomatoes.com/m/hope_2026",
+        "note": "182 critiques (Certified Fresh) ; public (Popcornmeter) 77 %"
+      },
+      "director": "Na Hong-jin",
+      "notes": "Thriller de science-fiction sud-coréen de Na Hong-jin (The Chaser, The Strangers), en compétition à Cannes 2026, avec Hwang Jung-min, Zo In-sung, Hoyeon, Alicia Vikander et Michael Fassbender. Au cinéma en France depuis le 28/10/2026, pas encore en streaming : absent de Netflix, Prime Video et Crunchyroll en France et dans les 17 pays vérifiés (JustWatch, 29/10/2026) ; seulement en location/achat numérique sur Prime Video (Royaume-Uni, États-Unis, Canada, Australie), pas en France. Déconseillé aux moins de 12 ans.",
+      "updated": "2026-10-29"
+    },
     {
       "id": "clayface-2026",
       "title": "Clayface",
