@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-11-05",
   "dedicated_for": [
     "safa",
     "eya",
@@ -13,9 +13,83 @@
     "électronique",
     "mode",
     "enfants",
-    "autre"
+    "autre",
+    "bricolage"
   ],
   "items": [
+    {
+      "id": "badis-khurdawat-outil-non-identifie-2026-11-05",
+      "date": "2026-11-05",
+      "title": "Outil / gadget (باديس للخرداوات) — non identifié",
+      "category": "bricolage",
+      "dedicated_for": null,
+      "claimed": "Page arabe d’outillage / quincaillerie ; produit exact du reel non confirmé (pas de caption utile).",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1089078277232700",
+      "review_verdict": "Non identifié — pas de recherche prix possible.",
+      "best_price": "N/A",
+      "notes": "Enregistré pour historique FB saved ; à reclasse si un run ultérieur identifie l’objet.",
+      "providers": [],
+      "tags": [
+        "non identifié",
+        "outillage"
+      ]
+    },
+    {
+      "id": "ryans-amazing-finds-amazon-affiliate-2026-11-05",
+      "date": "2026-11-05",
+      "title": "Find Amazon non identifié (Ryans.amazing.finds)",
+      "category": "maison",
+      "dedicated_for": null,
+      "claimed": "« Link here » vers urlgeni.us/amazon/RyansHomeFinds — produit exact non nommé dans le caption.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1272569431670470",
+      "review_verdict": "Lien affilié générique ; article précis non identifiable depuis le saved sans ouvrir le lien tracké. Non recommandé tant que le produit n’est pas nommé.",
+      "best_price": "N/A",
+      "notes": "Baseline only / fiche minimale. Éviter les redirections urlgeni.us non auditées.",
+      "providers": [],
+      "tags": [
+        "Amazon",
+        "affilié",
+        "non identifié"
+      ]
+    },
+    {
+      "id": "archie5-tondeuse-cheveux-gadget-2026-11-05",
+      "date": "2026-11-05",
+      "title": "Gadget tondeuse / rasage cheveux (pub Archie5)",
+      "category": "salle de bain",
+      "dedicated_for": null,
+      "claimed": "Gadget pour se raser / brosser les cheveux proprement (caption FB).",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1609468057349872",
+      "review_verdict": "Pub type dropship Archie5 : SKU précis non identifié. Beaucoup de clones sans marque fiable. Préférer une tondeuse / brosse de marque (Philips, Remington, Rowenta) plutôt que l’offre FB.",
+      "best_price": "Non relié à un SKU fiable ; alternatives marque sur Amazon.fr (tondeuses classiques).",
+      "notes": "Reel products collection. Pas de dedicated-for. Lien Amazon affilié absent sur ce clip (contrairement à Ryans).",
+      "providers": [],
+      "tags": [
+        "Archie5",
+        "dropship",
+        "cheveux",
+        "salle de bain"
+      ]
+    },
+    {
+      "id": "pureselfmade-diy-wind-turbine-2026-11-05",
+      "date": "2026-11-05",
+      "title": "DIY éolienne / générateur maison (PureSelfMade)",
+      "category": "bricolage",
+      "dedicated_for": null,
+      "claimed": "Construire un générateur et installer une éolienne artisanale pour de l’énergie off-grid.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1119813143864994",
+      "review_verdict": "Contenu DIY / tutoriel, pas un produit emballé à acheter. Pas de marque commerciale claire sur le reel. À traiter comme inspiration bricolage, pas comme achat.",
+      "best_price": "N/A (projet DIY)",
+      "notes": "Source PureSelfMade. Pas d’offre Amazon.fr ou enseigne FR pour « ce » kit exact. Les kits éoliens DIY génériques existent mais ne correspondent pas à une fiche produit unique du reel.",
+      "providers": [],
+      "tags": [
+        "DIY",
+        "éolienne",
+        "off-grid",
+        "PureSelfMade"
+      ]
+    },
     {
       "id": "kenwood-my-pizzeria-four-pizza-2026-10-29",
       "date": "2026-10-29",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-11-05",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -7,6 +7,165 @@
     "crunchyroll"
   ],
   "items": [
+    {
+      "id": "black-mirror",
+      "title": "Black Mirror",
+      "category": "tv",
+      "year": 2011,
+      "genre": "Drama, Science-Fiction, Thriller, Anthology",
+      "runtime": "7 saisons · ~33 eps · ~46–90 min",
+      "filler_pct": null,
+      "filler_note": "N/A (anthology live-action)",
+      "added": "2026-11-05",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "netflix",
+          "name": "Netflix",
+          "url": "https://www.netflix.com/fr/title/70264888"
+        }
+      ],
+      "watch_fr_notes": "France : saisons 1–7 sur Netflix (JustWatch FR, nov. 2026). Saison 8 annoncée / en prod., pas sortie. Favori Netflix non ajouté : ménage Netflix toujours bloqué (code côté Marwa).",
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1656112219581147",
+        "page": "Abregememe",
+        "extra": []
+      },
+      "poster": "/media/posters/black-mirror.jpg",
+      "poster_source": "https://static.tvmaze.com/uploads/images/original_untouched/564/1411764.jpg",
+      "imdb": {
+        "score": 8.7,
+        "url": "https://www.imdb.com/title/tt2085059/"
+      },
+      "notes": "Clip FB = mème/humour Abregememe (« Nouvelle saison de Black Mirror ? »), pas un épisode. Titre réel ajouté car dispo Netflix FR.",
+      "tags": [
+        "2011",
+        "anthologie",
+        "netflix",
+        "science-fiction",
+        "thriller",
+        "drame"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": true,
+          "countries": [
+            "FR"
+          ],
+          "vpn_country": null,
+          "url": "https://www.netflix.com/fr/title/70264888",
+          "watchlist": "bloqué ménage"
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [],
+          "vpn_country": null,
+          "url": null,
+          "watchlist": null
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [],
+          "vpn_country": null,
+          "url": null,
+          "watchlist": null
+        }
+      },
+      "ptags": [
+        "netflix"
+      ],
+      "vtags": [
+        "no_vpn"
+      ]
+    },
+    {
+      "id": "spare-me-great-lord",
+      "title": "Spare Me, Great Lord!",
+      "category": "donghua",
+      "year": 2021,
+      "genre": "Action, Adventure, Comedy, Fantasy",
+      "runtime": "S1 12 eps · ~25 min ; S2+S3 aussi (S3 en cours oct. 2026)",
+      "filler_pct": null,
+      "filler_note": "Donghua / ONA — pas de liste filler classique",
+      "added": "2026-11-05",
+      "watchlist_added": [],
+      "title_native": "大王饶命",
+      "title_romaji": "Dawang Raoming",
+      "title_jp": null,
+      "mal": {
+        "score": 7.49,
+        "url": "https://myanimelist.net/anime/44406/Da_Wang_Rao_Ming"
+      },
+      "anilist": {
+        "score": 73,
+        "url": "https://anilist.co/anime/120220"
+      },
+      "studio": "Big Firebird Cultural Media",
+      "watch_fr": [
+        {
+          "id": "wetv",
+          "name": "WeTV / Tencent Video (international)",
+          "url": "https://wetv.vip/"
+        }
+      ],
+      "watch_fr_notes": "Pas sur Crunchyroll, Netflix ni Prime Video en France (JustWatch / donghuafan, nov. 2026). Légal : WeTV / Tencent Video (sous-titres EN typiques). S3 simulcast WeTV fall 2026.",
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=1426411346321997",
+        "page": "Leopaul Vertus",
+        "extra": []
+      },
+      "poster": "/media/posters/spare-me-great-lord.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120220-sdm29OEAijm7.jpg",
+      "notes": "Clip FB = réaction/commentaire (#sparemegreatlord), pas l’épisode. Donghua chinois (roman Qidian). Pas de favori sur les 3 abonnements FR.",
+      "full_links": [
+        {
+          "label": "WeTV",
+          "url": "https://wetv.vip/",
+          "note": "plateforme officielle internationale"
+        },
+        {
+          "label": "donghuafan fiche",
+          "url": "https://www.donghuafan.com/donghua/spare-me-great-lord"
+        }
+      ],
+      "tags": [
+        "2021",
+        "action",
+        "aventure",
+        "comédie",
+        "donghua",
+        "fantasy",
+        "chinois",
+        "wetv"
+      ],
+      "platforms": {
+        "netflix": {
+          "fr": false,
+          "countries": [],
+          "vpn_country": null,
+          "url": null,
+          "watchlist": null
+        },
+        "amazon_prime": {
+          "fr": false,
+          "countries": [],
+          "vpn_country": null,
+          "url": null,
+          "watchlist": null
+        },
+        "crunchyroll": {
+          "fr": false,
+          "countries": [],
+          "vpn_country": null,
+          "url": null,
+          "watchlist": null
+        }
+      },
+      "ptags": [],
+      "vtags": [
+        "no_vpn"
+      ]
+    },
     {
       "id": "the-vermilion-mask-2026",
       "title": "The Vermilion Mask",
