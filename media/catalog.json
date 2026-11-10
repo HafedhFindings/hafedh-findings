@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-10",
   "region": "FR",
   "subscribed": [
     "netflix",
@@ -8037,6 +8037,71 @@
       },
       "ptags": [
         "amazon_prime",
+        "crunchyroll"
+      ],
+      "vtags": [
+        "no_vpn"
+      ]
+    },
+    {
+      "id": "the-new-gate-2024",
+      "title": "THE NEW GATE",
+      "category": "anime",
+      "year": 2024,
+      "genre": "Action, Aventure, Fantasy",
+      "runtime": "12 eps · 24 min",
+      "filler_pct": null,
+      "added": "2026-11-10",
+      "watchlist_added": [],
+      "watch_fr": [
+        {
+          "id": "crunchyroll",
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/fr/series/GMEHME7Z1/the-new-gate"
+        }
+      ],
+      "watch_fr_notes": "France : Crunchyroll (VOSTFR, audio japonais). Aussi via la chaîne Crunchyroll sur Amazon Prime Video (abonnement Crunchyroll requis). Pas sur Netflix. Crunchylist à ajouter.",
+      "full_links": [],
+      "facebook": {
+        "share": "https://www.facebook.com/watch/?ref=saved&v=3628045460693781",
+        "page": "Anime SPM"
+      },
+      "facebook_clips": [
+        "https://www.facebook.com/watch/?ref=saved&v=3628045460693781"
+      ],
+      "identified_from": "Reel Anime SPM « Il est devenu une légende vivante sans le savoir » : héros revenu 500 ans plus tard, paie avec une pièce de 500 ans (identification par synopsis + visuel, confiance moyenne-haute)",
+      "anilist": {
+        "score": 6.4,
+        "url": "https://anilist.co/anime/170890"
+      },
+      "mal": {
+        "score": null,
+        "url": "https://myanimelist.net/anime/57100"
+      },
+      "poster": "/media/posters/the-new-gate-2024.jpg",
+      "poster_source": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-XrggQYjAJAGa.jpg",
+      "tags": [
+        "2024",
+        "action",
+        "aventure",
+        "fantasy",
+        "crunchyroll"
+      ],
+      "platforms": {
+        "crunchyroll": {
+          "fr": true,
+          "countries": [
+            "FR",
+            "US",
+            "GB",
+            "CA"
+          ],
+          "vpn_country": null,
+          "url": "https://www.crunchyroll.com/fr/series/GMEHME7Z1/the-new-gate",
+          "watchlist": "à ajouter"
+        }
+      },
+      "ptags": [
         "crunchyroll"
       ],
       "vtags": [
