@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-11",
   "dedicated_for": [
     "safa",
     "eya",
@@ -17,6 +17,138 @@
     "bricolage"
   ],
   "items": [
+    {
+      "id": "daily-finds-friteuse-filtre-huile-2-en-1-2026-11-11",
+      "date": "2026-11-11",
+      "title": "Friteuse + filtre à huile 2 en 1 inox (reel Daily Finds)",
+      "category": "cuisine",
+      "dedicated_for": null,
+      "claimed": "Casserole de friture inox avec panier et passoire intégrée : on frit, on filtre l’huile et on la stocke dans le même pot.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1122553346839478",
+      "review_verdict": "Catégorie de produit courante et légitime (pots à huile inox 304). Le modèle exact du reel n’est pas identifié : les références ci-dessous sont des équivalents. Prudence : huile très chaude, toujours filtrer à froid/tiède ; vérifier compatibilité induction.",
+      "best_price": "Prix non relevé de façon fiable (pages Amazon.fr sans prix dans la recherche) ; vérifier sur la fiche.",
+      "notes": "Reel FB « A deep fryer AND an oil strainer in one?! Kitchen genius » (Daily Finds). Produit non nommé dans la légende : équivalents trouvés, pas de correspondance certaine.",
+      "providers": [
+        {
+          "slot": "france",
+          "name": "Amazon.fr — LOVIVER pot filtre à huile inox 304 1,5 L (couvercle, passoire, panier)",
+          "url": "https://www.amazon.fr/LOVIVER-Inoxydable-Couvercle-Anti-poussi%C3%A8re-Multifonctionnel/dp/B0CXQ6QWZT",
+          "price": "voir fiche",
+          "rating": "non relevé",
+          "reviews": "Marque générique ; fonction 3 en 1 décrite par le vendeur"
+        },
+        {
+          "slot": "france",
+          "name": "Amazon.fr — Topyond friteuse inox 3 L avec panier, couvercle et filtre à huile",
+          "url": "https://www.amazon.fr/Topyond-Friteuse-Inoxydable-Antid%C3%A9rapante-Couvercle/dp/B0CH8FLM42",
+          "price": "voir fiche",
+          "rating": "non relevé",
+          "reviews": "Compatible gaz/induction selon le vendeur"
+        },
+        {
+          "slot": "world",
+          "name": "Amazon.com — HOMKULA pot à huile inox 304 2 L 2 en 1",
+          "url": "https://www.amazon.com/HOMKULA-Stainless-Multifunctional-Strainer-Container/dp/B0DCNGQRBP",
+          "price": "voir fiche",
+          "rating": "non relevé",
+          "reviews": "Envoi vers la France non vérifié"
+        }
+      ],
+      "tags": [
+        "Amazon.fr",
+        "cuisine",
+        "friture",
+        "équivalent"
+      ]
+    },
+    {
+      "id": "parrotlab-perchoir-main-factice-perroquet-2026-11-11",
+      "date": "2026-11-11",
+      "title": "Perchoir en forme de main pour dresser un perroquet (reel Parrotlab)",
+      "category": "autre",
+      "dedicated_for": null,
+      "claimed": "Fausse main fixe pour habituer un oiseau craintif à monter sur la main (step-up) sans risque de morsure.",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=2140653656831239",
+      "review_verdict": "Accessoire de dressage existant en plusieurs versions (doigt levé / paume ouverte). Parrotlab est une boutique hongroise (parrotlab.hu) ; je n’ai pas confirmé qu’elle vende cet article. Séances courtes, ne jamais forcer l’oiseau.",
+      "best_price": "Équivalents : ~8,49 USD (Amazon.com, ulafbwur) ; ~12,40 € (eBay, vendeur chinois) ; 22,99 USD (petimeusa.com). Aucun prix FR vérifié.",
+      "notes": "Aucune offre Amazon.fr trouvée. Pas de dedicated-for.",
+      "providers": [
+        {
+          "slot": "world",
+          "name": "Amazon.com — Parrot Training Fake Hand Perch (PETG)",
+          "url": "https://www.amazon.com/dp/B0HHM39MJS",
+          "price": "8,49 USD",
+          "rating": "non relevé",
+          "reviews": "Envoi FR non vérifié"
+        },
+        {
+          "slot": "world",
+          "name": "eBay — Realistic Hand Shaped Parrot Perch (pravivity)",
+          "url": "https://www.ebay.nl/itm/147648525820",
+          "price": "≈12,40 € (10,38 GBP)",
+          "rating": "vendeur 100 % positif (3050)",
+          "reviews": "Expédié de Chine, retours 30 j"
+        },
+        {
+          "slot": "world",
+          "name": "petimeusa.com — hand perch pour cage, fixation par vis",
+          "url": "https://petimeusa.com/products/parrot-training-hand-perch-for-cage-fake-hand-step-up-practice-stand",
+          "price": "22,99 USD",
+          "rating": "non relevé",
+          "reviews": "Fixation sur barreaux de cage"
+        }
+      ],
+      "tags": [
+        "oiseaux",
+        "perroquet",
+        "dressage",
+        "Parrotlab"
+      ]
+    },
+    {
+      "id": "joyful-gift-market-support-couvercle-inox-2026-11-11",
+      "date": "2026-11-11",
+      "title": "Support couvercles / ustensiles inox pour plan de travail (Joyful Gift Market)",
+      "category": "cuisine",
+      "dedicated_for": null,
+      "claimed": "Porte-couvercles et cuillères/louches/planches en inox, rangement de plan de travail (page savnshop.com en légende).",
+      "facebook": "https://www.facebook.com/watch/?ref=saved&v=1306976944893244",
+      "review_verdict": "Gadget simple et banal ; la boutique savnshop.com (dropship probable) n’est pas recommandée. Mêmes produits ou équivalents moins chers chez Amazon.fr.",
+      "best_price": "Amazon.fr : PAVSTINE (plastique pliable) 9,99 € ; Cyiecw (inox/bambou selon fiche) 25,99 €. Amazon.de GRÄWE inox 18/10 : 8,98 € (4,7/5, 83 avis).",
+      "notes": "Légende : https://savnshop.com/products/stainless-steel-pot-lid-utensil-holder-multipurpose-kitchen-organizer-countertop-storage-for-spoons-ladles-cutting-boards (non utilisée comme source d’achat). Fiche Cyiecw ambiguë sur le matériau.",
+      "providers": [
+        {
+          "slot": "france",
+          "name": "Amazon.fr — PAVSTINE range-couvercle pliable (plastique)",
+          "url": "https://www.amazon.fr/PAVSTINE-Couvercle-Couvercles-Casserole-Rangement/dp/B0D2NN1R7D",
+          "price": "9,99 €",
+          "rating": "non relevé",
+          "reviews": "Pour couvercles 16–34 cm ; plastique, pas inox"
+        },
+        {
+          "slot": "france",
+          "name": "Amazon.fr — Cyiecw porte-couvercle avec égouttoir amovible",
+          "url": "https://www.amazon.fr/-/en/Cyiecw-Kitchen-Removable-Worktops-Space-Saving/dp/B0GGQJK847",
+          "price": "25,99 €",
+          "rating": "4,8/5 (4)",
+          "reviews": "Peu d’avis ; matériau indiqué inox/bambou"
+        },
+        {
+          "slot": "world",
+          "name": "Amazon.de — GRÄWE porte-couvercle inox 18/10 avec repose-cuillère",
+          "url": "https://www.amazon.de/-/en/GR%C3%84WE-Stainless-Steel-Holder-Spoon/dp/B00LI029UU",
+          "price": "8,98 €",
+          "rating": "4,7/5 (83)",
+          "reviews": "Démontable, lave-vaisselle ; livraison vers la FR via Amazon"
+        }
+      ],
+      "tags": [
+        "cuisine",
+        "rangement",
+        "inox",
+        "dropship"
+      ]
+    },
     {
       "id": "badis-khurdawat-outil-non-identifie-2026-11-05",
       "date": "2026-11-05",
